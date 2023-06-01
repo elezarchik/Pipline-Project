@@ -1,0 +1,30 @@
+[2023-05-10 18:09:42,707][__main__][INFO] - Net(
+  (fc1): Linear(in_features=17, out_features=68, bias=True)
+  (fc2): Linear(in_features=68, out_features=68, bias=True)
+  (fc3): Linear(in_features=68, out_features=68, bias=True)
+  (fc4): Linear(in_features=68, out_features=68, bias=True)
+  (fc5): Linear(in_features=68, out_features=68, bias=True)
+  (fc6): Linear(in_features=68, out_features=68, bias=True)
+  (fc7): Linear(in_features=68, out_features=68, bias=True)
+  (fc8): Linear(in_features=68, out_features=1, bias=True)
+  (act1): ReLU()
+)
+[2023-05-10 18:09:43,550][__main__][INFO] - Iteration 0, epoch 0, train accuracy 0.47, loss 0.5004
+[2023-05-10 18:09:46,486][__main__][INFO] - Test accuracy - 0.5023920454545455
+[2023-05-10 18:09:46,516][__main__][INFO] - Iteration 0, epoch 1, train accuracy 0.53, loss 0.4995
+[2023-05-10 18:09:49,480][__main__][INFO] - Test accuracy - 0.5023920454545455
+[2023-05-10 18:09:49,503][__main__][INFO] - Iteration 0, epoch 2, train accuracy 0.50, loss 0.5000
+[2023-05-10 18:09:52,724][__main__][INFO] - Test accuracy - 0.5023920454545455
+[2023-05-10 18:09:52,749][__main__][INFO] - Iteration 0, epoch 3, train accuracy 0.50, loss 0.4999
+[2023-05-10 18:09:55,958][__main__][INFO] - Test accuracy - 0.5023920454545455
+[2023-05-10 18:09:55,986][__main__][INFO] - Iteration 0, epoch 4, train accuracy 0.51, loss 0.4999
+[2023-05-10 18:09:59,242][__main__][INFO] - Test accuracy - 0.5023920454545455
+[2023-05-10 18:09:59,271][__main__][INFO] - Iteration 0, epoch 5, train accuracy 0.50, loss 0.5000
+[2023-05-10 18:10:02,500][__main__][INFO] - Test accuracy - 0.5023920454545455
+[2023-05-10 18:10:02,527][__main__][INFO] - Iteration 0, epoch 6, train accuracy 0.52, loss 0.4997
+[2023-05-10 18:10:05,735][__main__][INFO] - Test accuracy - 0.5023920454545455
+[2023-05-10 18:10:05,759][__main__][INFO] - Iteration 0, epoch 7, train accuracy 0.51, loss 0.4999
+[2023-05-10 18:10:09,073][__main__][INFO] - Test accuracy - 0.5023920454545455
+[2023-05-10 18:10:09,096][__main__][INFO] - Iteration 0, epoch 8, train accuracy 0.50, loss 0.5000
+[2023-05-10 18:10:12,391][__main__][INFO] - Test accuracy - 0.5023920454545455
+[2023-05-10 18:10:12,423][__main__][INFO] - Iteration 0, epoch 9, train accuracy 0.50, loss 0.5000

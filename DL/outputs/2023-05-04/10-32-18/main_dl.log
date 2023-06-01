@@ -1,0 +1,22 @@
+[2023-05-04 10:32:18,742][__main__][INFO] - Net(
+  (fc1): Linear(in_features=17, out_features=34, bias=True)
+  (fc2): Linear(in_features=34, out_features=34, bias=True)
+  (fc3): Linear(in_features=34, out_features=34, bias=True)
+  (fc4): Linear(in_features=34, out_features=17, bias=True)
+  (fc5): Linear(in_features=17, out_features=1, bias=True)
+  (act1): ReLU()
+  (act2): Tanh()
+)
+[2023-05-04 10:32:19,561][__main__][INFO] - Iteration 0, epoch 0, train accuracy 0.50, loss 0.6986
+[2023-05-04 10:32:21,711][__main__][INFO] - Test accuracy - 0.08714694266950655
+[2023-05-04 10:32:21,740][__main__][INFO] - Iteration 0, epoch 1, train accuracy 0.50, loss 0.6967
+[2023-05-04 10:32:23,911][__main__][INFO] - Test accuracy - 0.08714694266950655
+[2023-05-04 10:32:23,928][__main__][INFO] - Iteration 0, epoch 2, train accuracy 0.49, loss 0.6964
+[2023-05-04 10:32:26,100][__main__][INFO] - Test accuracy - 0.08714694266950655
+[2023-05-04 10:32:26,120][__main__][INFO] - Iteration 0, epoch 3, train accuracy 0.49, loss 0.6963
+[2023-05-04 10:32:28,477][__main__][INFO] - Test accuracy - 0.08714694266950655
+[2023-05-04 10:32:28,495][__main__][INFO] - Iteration 0, epoch 4, train accuracy 0.48, loss 0.6964
+[2023-05-04 10:32:30,846][__main__][INFO] - Test accuracy - 0.08714694266950655
+[2023-05-04 10:32:30,871][__main__][INFO] - Iteration 0, epoch 5, train accuracy 0.50, loss 0.6938
+[2023-05-04 10:32:33,296][__main__][INFO] - Test accuracy - 0.08714694266950655
+[2023-05-04 10:32:33,314][__main__][INFO] - Iteration 0, epoch 6, train accuracy 0.48, loss 0.6952

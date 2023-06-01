@@ -1,0 +1,1010 @@
+[2023-05-05 17:14:36,961][__main__][INFO] - Net(
+  (fc1): Linear(in_features=17, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=50, bias=True)
+  (fc3): Linear(in_features=50, out_features=50, bias=True)
+  (fc4): Linear(in_features=50, out_features=50, bias=True)
+  (fc5): Linear(in_features=50, out_features=1, bias=True)
+  (act1): ReLU()
+  (act2): Tanh()
+)
+[2023-05-05 17:14:37,869][__main__][INFO] - Iteration 0, epoch 0, train accuracy 0.51, loss 0.4996
+[2023-05-05 17:14:40,601][__main__][INFO] - Test accuracy - 0.5976445627157653
+[2023-05-05 17:14:40,625][__main__][INFO] - Iteration 0, epoch 1, train accuracy 0.59, loss 0.4812
+[2023-05-05 17:14:43,354][__main__][INFO] - Test accuracy - 0.6873610471806674
+[2023-05-05 17:14:43,377][__main__][INFO] - Iteration 0, epoch 2, train accuracy 0.68, loss 0.3738
+[2023-05-05 17:14:46,354][__main__][INFO] - Test accuracy - 0.7058910385500575
+[2023-05-05 17:14:46,381][__main__][INFO] - Iteration 0, epoch 3, train accuracy 0.69, loss 0.3225
+[2023-05-05 17:14:49,463][__main__][INFO] - Test accuracy - 0.7132547468354431
+[2023-05-05 17:14:49,485][__main__][INFO] - Iteration 0, epoch 4, train accuracy 0.73, loss 0.2852
+[2023-05-05 17:14:52,601][__main__][INFO] - Test accuracy - 0.7192415851553511
+[2023-05-05 17:14:52,621][__main__][INFO] - Iteration 0, epoch 5, train accuracy 0.72, loss 0.2922
+[2023-05-05 17:14:55,692][__main__][INFO] - Test accuracy - 0.7256979286536249
+[2023-05-05 17:14:55,713][__main__][INFO] - Iteration 0, epoch 6, train accuracy 0.71, loss 0.2913
+[2023-05-05 17:14:58,782][__main__][INFO] - Test accuracy - 0.7297774741081704
+[2023-05-05 17:14:58,808][__main__][INFO] - Iteration 0, epoch 7, train accuracy 0.74, loss 0.2657
+[2023-05-05 17:15:01,934][__main__][INFO] - Test accuracy - 0.7324933112773302
+[2023-05-05 17:15:01,957][__main__][INFO] - Iteration 0, epoch 8, train accuracy 0.74, loss 0.2621
+[2023-05-05 17:15:05,230][__main__][INFO] - Test accuracy - 0.7327850978135789
+[2023-05-05 17:15:05,252][__main__][INFO] - Iteration 0, epoch 9, train accuracy 0.75, loss 0.2561
+[2023-05-05 17:15:08,348][__main__][INFO] - Test accuracy - 0.7353891685845799
+[2023-05-05 17:15:08,367][__main__][INFO] - Iteration 0, epoch 10, train accuracy 0.73, loss 0.2681
+[2023-05-05 17:15:11,491][__main__][INFO] - Test accuracy - 0.7360066887226697
+[2023-05-05 17:15:11,513][__main__][INFO] - Iteration 0, epoch 11, train accuracy 0.76, loss 0.2478
+[2023-05-05 17:15:14,628][__main__][INFO] - Test accuracy - 0.7373646432681243
+[2023-05-05 17:15:14,649][__main__][INFO] - Iteration 0, epoch 12, train accuracy 0.74, loss 0.2628
+[2023-05-05 17:15:17,756][__main__][INFO] - Test accuracy - 0.7380860184119679
+[2023-05-05 17:15:17,792][__main__][INFO] - Iteration 0, epoch 13, train accuracy 0.75, loss 0.2521
+[2023-05-05 17:15:20,901][__main__][INFO] - Test accuracy - 0.7396940448791715
+[2023-05-05 17:15:20,924][__main__][INFO] - Iteration 0, epoch 14, train accuracy 0.73, loss 0.2735
+[2023-05-05 17:15:24,041][__main__][INFO] - Test accuracy - 0.7401144994246259
+[2023-05-05 17:15:24,071][__main__][INFO] - Iteration 0, epoch 15, train accuracy 0.75, loss 0.2485
+[2023-05-05 17:15:27,160][__main__][INFO] - Test accuracy - 0.7410065448791715
+[2023-05-05 17:15:27,188][__main__][INFO] - Iteration 0, epoch 16, train accuracy 0.75, loss 0.2557
+[2023-05-05 17:15:30,234][__main__][INFO] - Test accuracy - 0.7412281357882624
+[2023-05-05 17:15:30,261][__main__][INFO] - Iteration 0, epoch 17, train accuracy 0.74, loss 0.2636
+[2023-05-05 17:15:33,384][__main__][INFO] - Test accuracy - 0.7411522583429231
+[2023-05-05 17:15:33,413][__main__][INFO] - Iteration 0, epoch 18, train accuracy 0.72, loss 0.2839
+[2023-05-05 17:15:36,517][__main__][INFO] - Test accuracy - 0.741805667433832
+[2023-05-05 17:15:36,538][__main__][INFO] - Iteration 0, epoch 19, train accuracy 0.74, loss 0.2548
+[2023-05-05 17:15:39,630][__main__][INFO] - Test accuracy - 0.7426996547756041
+[2023-05-05 17:15:39,654][__main__][INFO] - Iteration 0, epoch 20, train accuracy 0.75, loss 0.2488
+[2023-05-05 17:15:42,741][__main__][INFO] - Test accuracy - 0.7432640966628309
+[2023-05-05 17:15:42,772][__main__][INFO] - Iteration 0, epoch 21, train accuracy 0.76, loss 0.2430
+[2023-05-05 17:15:45,903][__main__][INFO] - Test accuracy - 0.7433834148446491
+[2023-05-05 17:15:45,922][__main__][INFO] - Iteration 0, epoch 22, train accuracy 0.76, loss 0.2449
+[2023-05-05 17:15:49,059][__main__][INFO] - Test accuracy - 0.7435632192174914
+[2023-05-05 17:15:49,083][__main__][INFO] - Iteration 0, epoch 23, train accuracy 0.74, loss 0.2546
+[2023-05-05 17:15:52,191][__main__][INFO] - Test accuracy - 0.7443076812428078
+[2023-05-05 17:15:52,212][__main__][INFO] - Iteration 0, epoch 24, train accuracy 0.74, loss 0.2673
+[2023-05-05 17:15:55,328][__main__][INFO] - Test accuracy - 0.7443567318757193
+[2023-05-05 17:15:55,351][__main__][INFO] - Iteration 0, epoch 25, train accuracy 0.74, loss 0.2623
+[2023-05-05 17:15:58,469][__main__][INFO] - Test accuracy - 0.7446656357882624
+[2023-05-05 17:15:58,491][__main__][INFO] - Iteration 0, epoch 26, train accuracy 0.78, loss 0.2245
+[2023-05-05 17:16:01,605][__main__][INFO] - Test accuracy - 0.7455045310701955
+[2023-05-05 17:16:01,627][__main__][INFO] - Iteration 0, epoch 27, train accuracy 0.73, loss 0.2679
+[2023-05-05 17:16:04,789][__main__][INFO] - Test accuracy - 0.745580336593786
+[2023-05-05 17:16:04,811][__main__][INFO] - Iteration 0, epoch 28, train accuracy 0.75, loss 0.2544
+[2023-05-05 17:16:07,911][__main__][INFO] - Test accuracy - 0.745996907364787
+[2023-05-05 17:16:07,932][__main__][INFO] - Iteration 0, epoch 29, train accuracy 0.75, loss 0.2463
+[2023-05-05 17:16:11,012][__main__][INFO] - Test accuracy - 0.7463531357882623
+[2023-05-05 17:16:11,032][__main__][INFO] - Iteration 0, epoch 30, train accuracy 0.75, loss 0.2476
+[2023-05-05 17:16:14,160][__main__][INFO] - Test accuracy - 0.7467999856156502
+[2023-05-05 17:16:14,183][__main__][INFO] - Iteration 0, epoch 31, train accuracy 0.74, loss 0.2611
+[2023-05-05 17:16:17,283][__main__][INFO] - Test accuracy - 0.747305667433832
+[2023-05-05 17:16:17,308][__main__][INFO] - Iteration 0, epoch 32, train accuracy 0.72, loss 0.2726
+[2023-05-05 17:16:20,429][__main__][INFO] - Test accuracy - 0.7467622266973533
+[2023-05-05 17:16:20,477][__main__][INFO] - Iteration 0, epoch 33, train accuracy 0.77, loss 0.2358
+[2023-05-05 17:16:23,581][__main__][INFO] - Test accuracy - 0.7465709867663982
+[2023-05-05 17:16:23,603][__main__][INFO] - Iteration 0, epoch 34, train accuracy 0.73, loss 0.2708
+[2023-05-05 17:16:26,695][__main__][INFO] - Test accuracy - 0.7480499856156502
+[2023-05-05 17:16:26,724][__main__][INFO] - Iteration 0, epoch 35, train accuracy 0.72, loss 0.2816
+[2023-05-05 17:16:30,306][__main__][INFO] - Test accuracy - 0.7482109464902187
+[2023-05-05 17:16:30,335][__main__][INFO] - Iteration 0, epoch 36, train accuracy 0.72, loss 0.2810
+[2023-05-05 17:16:33,709][__main__][INFO] - Test accuracy - 0.7484951093210587
+[2023-05-05 17:16:33,737][__main__][INFO] - Iteration 0, epoch 37, train accuracy 0.73, loss 0.2668
+[2023-05-05 17:16:37,160][__main__][INFO] - Test accuracy - 0.7488624856156502
+[2023-05-05 17:16:37,189][__main__][INFO] - Iteration 0, epoch 38, train accuracy 0.75, loss 0.2512
+[2023-05-05 17:16:40,485][__main__][INFO] - Test accuracy - 0.7494799338319909
+[2023-05-05 17:16:40,505][__main__][INFO] - Iteration 0, epoch 39, train accuracy 0.76, loss 0.2435
+[2023-05-05 17:16:43,471][__main__][INFO] - Test accuracy - 0.7498322065592635
+[2023-05-05 17:16:43,492][__main__][INFO] - Iteration 0, epoch 40, train accuracy 0.75, loss 0.2548
+[2023-05-05 17:16:46,661][__main__][INFO] - Test accuracy - 0.7496447784810126
+[2023-05-05 17:16:46,689][__main__][INFO] - Iteration 0, epoch 41, train accuracy 0.74, loss 0.2603
+[2023-05-05 17:16:49,893][__main__][INFO] - Test accuracy - 0.7501845512082853
+[2023-05-05 17:16:49,919][__main__][INFO] - Iteration 0, epoch 42, train accuracy 0.76, loss 0.2369
+[2023-05-05 17:16:53,133][__main__][INFO] - Test accuracy - 0.751233745684695
+[2023-05-05 17:16:53,162][__main__][INFO] - Iteration 0, epoch 43, train accuracy 0.74, loss 0.2582
+[2023-05-05 17:16:56,053][__main__][INFO] - Test accuracy - 0.7513189729574224
+[2023-05-05 17:16:56,075][__main__][INFO] - Iteration 0, epoch 44, train accuracy 0.77, loss 0.2349
+[2023-05-05 17:16:59,295][__main__][INFO] - Test accuracy - 0.751877661104718
+[2023-05-05 17:16:59,315][__main__][INFO] - Iteration 0, epoch 45, train accuracy 0.78, loss 0.2253
+[2023-05-05 17:17:02,257][__main__][INFO] - Test accuracy - 0.7522204401611048
+[2023-05-05 17:17:02,283][__main__][INFO] - Iteration 0, epoch 46, train accuracy 0.75, loss 0.2553
+[2023-05-05 17:17:05,412][__main__][INFO] - Test accuracy - 0.7525197065592635
+[2023-05-05 17:17:05,434][__main__][INFO] - Iteration 0, epoch 47, train accuracy 0.76, loss 0.2452
+[2023-05-05 17:17:08,282][__main__][INFO] - Test accuracy - 0.7531844792865363
+[2023-05-05 17:17:08,302][__main__][INFO] - Iteration 0, epoch 48, train accuracy 0.75, loss 0.2501
+[2023-05-05 17:17:11,321][__main__][INFO] - Test accuracy - 0.7529325373993095
+[2023-05-05 17:17:11,343][__main__][INFO] - Iteration 0, epoch 49, train accuracy 0.75, loss 0.2603
+[2023-05-05 17:17:14,648][__main__][INFO] - Test accuracy - 0.7542507192174913
+[2023-05-05 17:17:14,671][__main__][INFO] - Iteration 0, epoch 50, train accuracy 0.75, loss 0.2475
+[2023-05-05 17:17:17,900][__main__][INFO] - Test accuracy - 0.7546768555811277
+[2023-05-05 17:17:17,931][__main__][INFO] - Iteration 0, epoch 51, train accuracy 0.74, loss 0.2568
+[2023-05-05 17:17:21,311][__main__][INFO] - Test accuracy - 0.755277258342923
+[2023-05-05 17:17:21,341][__main__][INFO] - Iteration 0, epoch 52, train accuracy 0.77, loss 0.2297
+[2023-05-05 17:17:24,538][__main__][INFO] - Test accuracy - 0.7556086737629459
+[2023-05-05 17:17:24,570][__main__][INFO] - Iteration 0, epoch 53, train accuracy 0.76, loss 0.2474
+[2023-05-05 17:17:27,935][__main__][INFO] - Test accuracy - 0.7562753883774452
+[2023-05-05 17:17:27,963][__main__][INFO] - Iteration 0, epoch 54, train accuracy 0.76, loss 0.2389
+[2023-05-05 17:17:30,947][__main__][INFO] - Test accuracy - 0.7560631472957422
+[2023-05-05 17:17:30,975][__main__][INFO] - Iteration 0, epoch 55, train accuracy 0.75, loss 0.2457
+[2023-05-05 17:17:34,067][__main__][INFO] - Test accuracy - 0.757040420023015
+[2023-05-05 17:17:34,093][__main__][INFO] - Iteration 0, epoch 56, train accuracy 0.76, loss 0.2397
+[2023-05-05 17:17:37,120][__main__][INFO] - Test accuracy - 0.7577886219792865
+[2023-05-05 17:17:37,141][__main__][INFO] - Iteration 0, epoch 57, train accuracy 0.76, loss 0.2478
+[2023-05-05 17:17:40,072][__main__][INFO] - Test accuracy - 0.7577449654775603
+[2023-05-05 17:17:40,100][__main__][INFO] - Iteration 0, epoch 58, train accuracy 0.77, loss 0.2290
+[2023-05-05 17:17:42,963][__main__][INFO] - Test accuracy - 0.7584855437284236
+[2023-05-05 17:17:42,985][__main__][INFO] - Iteration 0, epoch 59, train accuracy 0.77, loss 0.2301
+[2023-05-05 17:17:46,019][__main__][INFO] - Test accuracy - 0.7589760500575373
+[2023-05-05 17:17:46,040][__main__][INFO] - Iteration 0, epoch 60, train accuracy 0.76, loss 0.2401
+[2023-05-05 17:17:49,117][__main__][INFO] - Test accuracy - 0.7595309982738779
+[2023-05-05 17:17:49,146][__main__][INFO] - Iteration 0, epoch 61, train accuracy 0.76, loss 0.2421
+[2023-05-05 17:17:52,166][__main__][INFO] - Test accuracy - 0.7598396864211736
+[2023-05-05 17:17:52,186][__main__][INFO] - Iteration 0, epoch 62, train accuracy 0.77, loss 0.2288
+[2023-05-05 17:17:55,183][__main__][INFO] - Test accuracy - 0.7593870109321059
+[2023-05-05 17:17:55,207][__main__][INFO] - Iteration 0, epoch 63, train accuracy 0.75, loss 0.2483
+[2023-05-05 17:17:58,538][__main__][INFO] - Test accuracy - 0.7604874856156503
+[2023-05-05 17:17:58,567][__main__][INFO] - Iteration 0, epoch 64, train accuracy 0.74, loss 0.2560
+[2023-05-05 17:18:01,629][__main__][INFO] - Test accuracy - 0.7603737773302647
+[2023-05-05 17:18:01,652][__main__][INFO] - Iteration 0, epoch 65, train accuracy 0.76, loss 0.2442
+[2023-05-05 17:18:05,026][__main__][INFO] - Test accuracy - 0.7610669591484464
+[2023-05-05 17:18:05,048][__main__][INFO] - Iteration 0, epoch 66, train accuracy 0.80, loss 0.2089
+[2023-05-05 17:18:08,203][__main__][INFO] - Test accuracy - 0.7610424338319909
+[2023-05-05 17:18:08,229][__main__][INFO] - Iteration 0, epoch 67, train accuracy 0.76, loss 0.2446
+[2023-05-05 17:18:11,497][__main__][INFO] - Test accuracy - 0.7615953682393556
+[2023-05-05 17:18:11,526][__main__][INFO] - Iteration 0, epoch 68, train accuracy 0.77, loss 0.2328
+[2023-05-05 17:18:14,642][__main__][INFO] - Test accuracy - 0.7616560701956271
+[2023-05-05 17:18:14,669][__main__][INFO] - Iteration 0, epoch 69, train accuracy 0.80, loss 0.2048
+[2023-05-05 17:18:17,938][__main__][INFO] - Test accuracy - 0.7619817318757193
+[2023-05-05 17:18:17,968][__main__][INFO] - Iteration 0, epoch 70, train accuracy 0.75, loss 0.2483
+[2023-05-05 17:18:21,244][__main__][INFO] - Test accuracy - 0.7621447065592636
+[2023-05-05 17:18:21,268][__main__][INFO] - Iteration 0, epoch 71, train accuracy 0.75, loss 0.2542
+[2023-05-05 17:18:24,536][__main__][INFO] - Test accuracy - 0.7624856156501726
+[2023-05-05 17:18:24,566][__main__][INFO] - Iteration 0, epoch 72, train accuracy 0.77, loss 0.2289
+[2023-05-05 17:18:28,482][__main__][INFO] - Test accuracy - 0.7622147583429228
+[2023-05-05 17:18:28,516][__main__][INFO] - Iteration 0, epoch 73, train accuracy 0.77, loss 0.2362
+[2023-05-05 17:18:32,600][__main__][INFO] - Test accuracy - 0.7617923619102416
+[2023-05-05 17:18:32,625][__main__][INFO] - Iteration 0, epoch 74, train accuracy 0.78, loss 0.2235
+[2023-05-05 17:18:36,067][__main__][INFO] - Test accuracy - 0.7623662974683544
+[2023-05-05 17:18:36,091][__main__][INFO] - Iteration 0, epoch 75, train accuracy 0.77, loss 0.2362
+[2023-05-05 17:18:39,506][__main__][INFO] - Test accuracy - 0.7619496547756041
+[2023-05-05 17:18:39,532][__main__][INFO] - Iteration 0, epoch 76, train accuracy 0.75, loss 0.2549
+[2023-05-05 17:18:42,875][__main__][INFO] - Test accuracy - 0.7627167002301495
+[2023-05-05 17:18:42,906][__main__][INFO] - Iteration 0, epoch 77, train accuracy 0.77, loss 0.2336
+[2023-05-05 17:18:46,031][__main__][INFO] - Test accuracy - 0.761521504602992
+[2023-05-05 17:18:46,053][__main__][INFO] - Iteration 0, epoch 78, train accuracy 0.76, loss 0.2378
+[2023-05-05 17:18:48,859][__main__][INFO] - Test accuracy - 0.762709076524741
+[2023-05-05 17:18:48,885][__main__][INFO] - Iteration 0, epoch 79, train accuracy 0.77, loss 0.2334
+[2023-05-05 17:18:52,046][__main__][INFO] - Test accuracy - 0.7629894275028768
+[2023-05-05 17:18:52,068][__main__][INFO] - Iteration 0, epoch 80, train accuracy 0.76, loss 0.2439
+[2023-05-05 17:18:55,410][__main__][INFO] - Test accuracy - 0.7628113492520139
+[2023-05-05 17:18:55,444][__main__][INFO] - Iteration 0, epoch 81, train accuracy 0.75, loss 0.2542
+[2023-05-05 17:18:58,410][__main__][INFO] - Test accuracy - 0.7632394275028769
+[2023-05-05 17:18:58,435][__main__][INFO] - Iteration 0, epoch 82, train accuracy 0.76, loss 0.2431
+[2023-05-05 17:19:01,850][__main__][INFO] - Test accuracy - 0.7630878883774453
+[2023-05-05 17:19:01,880][__main__][INFO] - Iteration 0, epoch 83, train accuracy 0.75, loss 0.2468
+[2023-05-05 17:19:04,972][__main__][INFO] - Test accuracy - 0.7628890247410817
+[2023-05-05 17:19:04,995][__main__][INFO] - Iteration 0, epoch 84, train accuracy 0.76, loss 0.2436
+[2023-05-05 17:19:08,165][__main__][INFO] - Test accuracy - 0.7632658947065593
+[2023-05-05 17:19:08,189][__main__][INFO] - Iteration 0, epoch 85, train accuracy 0.76, loss 0.2385
+[2023-05-05 17:19:11,358][__main__][INFO] - Test accuracy - 0.7630746547756041
+[2023-05-05 17:19:11,383][__main__][INFO] - Iteration 0, epoch 86, train accuracy 0.77, loss 0.2366
+[2023-05-05 17:19:14,660][__main__][INFO] - Test accuracy - 0.7633984464902187
+[2023-05-05 17:19:14,682][__main__][INFO] - Iteration 0, epoch 87, train accuracy 0.76, loss 0.2385
+[2023-05-05 17:19:18,008][__main__][INFO] - Test accuracy - 0.7624381472957421
+[2023-05-05 17:19:18,031][__main__][INFO] - Iteration 0, epoch 88, train accuracy 0.74, loss 0.2646
+[2023-05-05 17:19:21,236][__main__][INFO] - Test accuracy - 0.7633189729574223
+[2023-05-05 17:19:21,264][__main__][INFO] - Iteration 0, epoch 89, train accuracy 0.76, loss 0.2477
+[2023-05-05 17:19:24,388][__main__][INFO] - Test accuracy - 0.7633265247410818
+[2023-05-05 17:19:24,418][__main__][INFO] - Iteration 0, epoch 90, train accuracy 0.77, loss 0.2305
+[2023-05-05 17:19:27,593][__main__][INFO] - Test accuracy - 0.7633947065592636
+[2023-05-05 17:19:27,614][__main__][INFO] - Iteration 0, epoch 91, train accuracy 0.78, loss 0.2202
+[2023-05-05 17:19:30,711][__main__][INFO] - Test accuracy - 0.7634572065592635
+[2023-05-05 17:19:30,736][__main__][INFO] - Iteration 0, epoch 92, train accuracy 0.76, loss 0.2447
+[2023-05-05 17:19:33,954][__main__][INFO] - Test accuracy - 0.7632792002301496
+[2023-05-05 17:19:33,981][__main__][INFO] - Iteration 0, epoch 93, train accuracy 0.75, loss 0.2449
+[2023-05-05 17:19:37,132][__main__][INFO] - Test accuracy - 0.7635878883774453
+[2023-05-05 17:19:37,154][__main__][INFO] - Iteration 0, epoch 94, train accuracy 0.76, loss 0.2362
+[2023-05-05 17:19:40,184][__main__][INFO] - Test accuracy - 0.7635860184119678
+[2023-05-05 17:19:40,211][__main__][INFO] - Iteration 0, epoch 95, train accuracy 0.77, loss 0.2268
+[2023-05-05 17:19:43,461][__main__][INFO] - Test accuracy - 0.7628169591484465
+[2023-05-05 17:19:43,495][__main__][INFO] - Iteration 0, epoch 96, train accuracy 0.77, loss 0.2351
+[2023-05-05 17:19:46,498][__main__][INFO] - Test accuracy - 0.7639173619102416
+[2023-05-05 17:19:46,525][__main__][INFO] - Iteration 0, epoch 97, train accuracy 0.78, loss 0.2220
+[2023-05-05 17:19:49,600][__main__][INFO] - Test accuracy - 0.7637412974683545
+[2023-05-05 17:19:49,621][__main__][INFO] - Iteration 0, epoch 98, train accuracy 0.79, loss 0.2183
+[2023-05-05 17:19:52,815][__main__][INFO] - Test accuracy - 0.7638549338319908
+[2023-05-05 17:19:52,834][__main__][INFO] - Iteration 0, epoch 99, train accuracy 0.79, loss 0.2065
+[2023-05-05 17:19:55,939][__main__][INFO] - Test accuracy - 0.7635556674338321
+[2023-05-05 17:19:55,961][__main__][INFO] - Iteration 0, epoch 100, train accuracy 0.76, loss 0.2365
+[2023-05-05 17:19:58,900][__main__][INFO] - Test accuracy - 0.7638076093210586
+[2023-05-05 17:19:58,921][__main__][INFO] - Iteration 0, epoch 101, train accuracy 0.77, loss 0.2353
+[2023-05-05 17:20:01,843][__main__][INFO] - Test accuracy - 0.7638606156501726
+[2023-05-05 17:20:01,866][__main__][INFO] - Iteration 0, epoch 102, train accuracy 0.77, loss 0.2270
+[2023-05-05 17:20:04,886][__main__][INFO] - Test accuracy - 0.7641503883774452
+[2023-05-05 17:20:04,907][__main__][INFO] - Iteration 0, epoch 103, train accuracy 0.79, loss 0.2114
+[2023-05-05 17:20:07,935][__main__][INFO] - Test accuracy - 0.7638170310701956
+[2023-05-05 17:20:07,960][__main__][INFO] - Iteration 0, epoch 104, train accuracy 0.77, loss 0.2316
+[2023-05-05 17:20:11,000][__main__][INFO] - Test accuracy - 0.7639305955120829
+[2023-05-05 17:20:11,020][__main__][INFO] - Iteration 0, epoch 105, train accuracy 0.78, loss 0.2234
+[2023-05-05 17:20:14,060][__main__][INFO] - Test accuracy - 0.7640670310701957
+[2023-05-05 17:20:14,081][__main__][INFO] - Iteration 0, epoch 106, train accuracy 0.76, loss 0.2400
+[2023-05-05 17:20:17,127][__main__][INFO] - Test accuracy - 0.7643170310701956
+[2023-05-05 17:20:17,150][__main__][INFO] - Iteration 0, epoch 107, train accuracy 0.78, loss 0.2254
+[2023-05-05 17:20:20,170][__main__][INFO] - Test accuracy - 0.7642810701956271
+[2023-05-05 17:20:20,192][__main__][INFO] - Iteration 0, epoch 108, train accuracy 0.77, loss 0.2333
+[2023-05-05 17:20:23,193][__main__][INFO] - Test accuracy - 0.7644268555811277
+[2023-05-05 17:20:23,214][__main__][INFO] - Iteration 0, epoch 109, train accuracy 0.76, loss 0.2402
+[2023-05-05 17:20:26,278][__main__][INFO] - Test accuracy - 0.7644988492520138
+[2023-05-05 17:20:26,304][__main__][INFO] - Iteration 0, epoch 110, train accuracy 0.78, loss 0.2170
+[2023-05-05 17:20:29,328][__main__][INFO] - Test accuracy - 0.7643908947065593
+[2023-05-05 17:20:29,350][__main__][INFO] - Iteration 0, epoch 111, train accuracy 0.78, loss 0.2243
+[2023-05-05 17:20:32,367][__main__][INFO] - Test accuracy - 0.7647658947065593
+[2023-05-05 17:20:32,389][__main__][INFO] - Iteration 0, epoch 112, train accuracy 0.78, loss 0.2217
+[2023-05-05 17:20:35,449][__main__][INFO] - Test accuracy - 0.7644231156501727
+[2023-05-05 17:20:35,478][__main__][INFO] - Iteration 0, epoch 113, train accuracy 0.75, loss 0.2460
+[2023-05-05 17:20:38,690][__main__][INFO] - Test accuracy - 0.7646428365937861
+[2023-05-05 17:20:38,721][__main__][INFO] - Iteration 0, epoch 114, train accuracy 0.78, loss 0.2214
+[2023-05-05 17:20:41,686][__main__][INFO] - Test accuracy - 0.7647981156501725
+[2023-05-05 17:20:41,710][__main__][INFO] - Iteration 0, epoch 115, train accuracy 0.74, loss 0.2532
+[2023-05-05 17:20:44,831][__main__][INFO] - Test accuracy - 0.7645404919447641
+[2023-05-05 17:20:44,850][__main__][INFO] - Iteration 0, epoch 116, train accuracy 0.78, loss 0.2164
+[2023-05-05 17:20:47,947][__main__][INFO] - Test accuracy - 0.7637317318757192
+[2023-05-05 17:20:47,973][__main__][INFO] - Iteration 0, epoch 117, train accuracy 0.75, loss 0.2464
+[2023-05-05 17:20:51,252][__main__][INFO] - Test accuracy - 0.7649610184119677
+[2023-05-05 17:20:51,282][__main__][INFO] - Iteration 0, epoch 118, train accuracy 0.76, loss 0.2408
+[2023-05-05 17:20:54,235][__main__][INFO] - Test accuracy - 0.7637942318757193
+[2023-05-05 17:20:54,262][__main__][INFO] - Iteration 0, epoch 119, train accuracy 0.76, loss 0.2418
+[2023-05-05 17:20:57,283][__main__][INFO] - Test accuracy - 0.7647507911392406
+[2023-05-05 17:20:57,308][__main__][INFO] - Iteration 0, epoch 120, train accuracy 0.77, loss 0.2295
+[2023-05-05 17:21:00,171][__main__][INFO] - Test accuracy - 0.764839686421174
+[2023-05-05 17:21:00,196][__main__][INFO] - Iteration 0, epoch 121, train accuracy 0.78, loss 0.2212
+[2023-05-05 17:21:02,919][__main__][INFO] - Test accuracy - 0.7651219792865362
+[2023-05-05 17:21:02,944][__main__][INFO] - Iteration 0, epoch 122, train accuracy 0.75, loss 0.2518
+[2023-05-05 17:21:05,983][__main__][INFO] - Test accuracy - 0.7652185701956271
+[2023-05-05 17:21:06,003][__main__][INFO] - Iteration 0, epoch 123, train accuracy 0.79, loss 0.2149
+[2023-05-05 17:21:08,980][__main__][INFO] - Test accuracy - 0.7649760500575374
+[2023-05-05 17:21:09,000][__main__][INFO] - Iteration 0, epoch 124, train accuracy 0.78, loss 0.2207
+[2023-05-05 17:21:11,985][__main__][INFO] - Test accuracy - 0.7648833429228997
+[2023-05-05 17:21:12,011][__main__][INFO] - Iteration 0, epoch 125, train accuracy 0.74, loss 0.2580
+[2023-05-05 17:21:15,044][__main__][INFO] - Test accuracy - 0.7648378883774453
+[2023-05-05 17:21:15,070][__main__][INFO] - Iteration 0, epoch 126, train accuracy 0.77, loss 0.2281
+[2023-05-05 17:21:18,537][__main__][INFO] - Test accuracy - 0.7650348820483314
+[2023-05-05 17:21:18,566][__main__][INFO] - Iteration 0, epoch 127, train accuracy 0.79, loss 0.2195
+[2023-05-05 17:21:21,938][__main__][INFO] - Test accuracy - 0.7643169591484464
+[2023-05-05 17:21:21,961][__main__][INFO] - Iteration 0, epoch 128, train accuracy 0.79, loss 0.2086
+[2023-05-05 17:21:24,877][__main__][INFO] - Test accuracy - 0.7633340046029918
+[2023-05-05 17:21:24,900][__main__][INFO] - Iteration 0, epoch 129, train accuracy 0.78, loss 0.2228
+[2023-05-05 17:21:27,937][__main__][INFO] - Test accuracy - 0.7654742520138089
+[2023-05-05 17:21:27,960][__main__][INFO] - Iteration 0, epoch 130, train accuracy 0.79, loss 0.2132
+[2023-05-05 17:21:30,960][__main__][INFO] - Test accuracy - 0.7656049338319907
+[2023-05-05 17:21:30,980][__main__][INFO] - Iteration 0, epoch 131, train accuracy 0.76, loss 0.2387
+[2023-05-05 17:21:33,983][__main__][INFO] - Test accuracy - 0.7644703682393555
+[2023-05-05 17:21:34,003][__main__][INFO] - Iteration 0, epoch 132, train accuracy 0.76, loss 0.2357
+[2023-05-05 17:21:37,060][__main__][INFO] - Test accuracy - 0.7639419591484465
+[2023-05-05 17:21:37,081][__main__][INFO] - Iteration 0, epoch 133, train accuracy 0.77, loss 0.2324
+[2023-05-05 17:21:40,132][__main__][INFO] - Test accuracy - 0.7655385500575375
+[2023-05-05 17:21:40,152][__main__][INFO] - Iteration 0, epoch 134, train accuracy 0.78, loss 0.2225
+[2023-05-05 17:21:43,207][__main__][INFO] - Test accuracy - 0.7656901611047181
+[2023-05-05 17:21:43,229][__main__][INFO] - Iteration 0, epoch 135, train accuracy 0.76, loss 0.2424
+[2023-05-05 17:21:46,261][__main__][INFO] - Test accuracy - 0.765387082853855
+[2023-05-05 17:21:46,284][__main__][INFO] - Iteration 0, epoch 136, train accuracy 0.77, loss 0.2285
+[2023-05-05 17:21:49,324][__main__][INFO] - Test accuracy - 0.7654987773302647
+[2023-05-05 17:21:49,345][__main__][INFO] - Iteration 0, epoch 137, train accuracy 0.76, loss 0.2472
+[2023-05-05 17:21:52,422][__main__][INFO] - Test accuracy - 0.7655537974683543
+[2023-05-05 17:21:52,442][__main__][INFO] - Iteration 0, epoch 138, train accuracy 0.74, loss 0.2560
+[2023-05-05 17:21:55,493][__main__][INFO] - Test accuracy - 0.7655367520138089
+[2023-05-05 17:21:55,513][__main__][INFO] - Iteration 0, epoch 139, train accuracy 0.79, loss 0.2153
+[2023-05-05 17:21:58,571][__main__][INFO] - Test accuracy - 0.7657299338319906
+[2023-05-05 17:21:58,594][__main__][INFO] - Iteration 0, epoch 140, train accuracy 0.77, loss 0.2345
+[2023-05-05 17:22:01,599][__main__][INFO] - Test accuracy - 0.7658492520138089
+[2023-05-05 17:22:01,624][__main__][INFO] - Iteration 0, epoch 141, train accuracy 0.79, loss 0.2122
+[2023-05-05 17:22:04,641][__main__][INFO] - Test accuracy - 0.7659533947065591
+[2023-05-05 17:22:04,670][__main__][INFO] - Iteration 0, epoch 142, train accuracy 0.79, loss 0.2098
+[2023-05-05 17:22:07,853][__main__][INFO] - Test accuracy - 0.7655896864211736
+[2023-05-05 17:22:07,883][__main__][INFO] - Iteration 0, epoch 143, train accuracy 0.77, loss 0.2354
+[2023-05-05 17:22:10,849][__main__][INFO] - Test accuracy - 0.7655765247410816
+[2023-05-05 17:22:10,881][__main__][INFO] - Iteration 0, epoch 144, train accuracy 0.76, loss 0.2440
+[2023-05-05 17:22:13,929][__main__][INFO] - Test accuracy - 0.7651692318757192
+[2023-05-05 17:22:13,950][__main__][INFO] - Iteration 0, epoch 145, train accuracy 0.76, loss 0.2345
+[2023-05-05 17:22:17,114][__main__][INFO] - Test accuracy - 0.7660120828538549
+[2023-05-05 17:22:17,134][__main__][INFO] - Iteration 0, epoch 146, train accuracy 0.77, loss 0.2340
+[2023-05-05 17:22:20,198][__main__][INFO] - Test accuracy - 0.7662393555811278
+[2023-05-05 17:22:20,222][__main__][INFO] - Iteration 0, epoch 147, train accuracy 0.75, loss 0.2511
+[2023-05-05 17:22:23,263][__main__][INFO] - Test accuracy - 0.7660443037974684
+[2023-05-05 17:22:23,287][__main__][INFO] - Iteration 0, epoch 148, train accuracy 0.76, loss 0.2346
+[2023-05-05 17:22:26,362][__main__][INFO] - Test accuracy - 0.7662582710011508
+[2023-05-05 17:22:26,383][__main__][INFO] - Iteration 0, epoch 149, train accuracy 0.76, loss 0.2389
+[2023-05-05 17:22:29,425][__main__][INFO] - Test accuracy - 0.7664193037974681
+[2023-05-05 17:22:29,447][__main__][INFO] - Iteration 0, epoch 150, train accuracy 0.79, loss 0.2136
+[2023-05-05 17:22:32,491][__main__][INFO] - Test accuracy - 0.7664287255466052
+[2023-05-05 17:22:32,517][__main__][INFO] - Iteration 0, epoch 151, train accuracy 0.77, loss 0.2371
+[2023-05-05 17:22:35,546][__main__][INFO] - Test accuracy - 0.765743095512083
+[2023-05-05 17:22:35,568][__main__][INFO] - Iteration 0, epoch 152, train accuracy 0.77, loss 0.2326
+[2023-05-05 17:22:38,620][__main__][INFO] - Test accuracy - 0.7660555955120827
+[2023-05-05 17:22:38,645][__main__][INFO] - Iteration 0, epoch 153, train accuracy 0.79, loss 0.2156
+[2023-05-05 17:22:41,721][__main__][INFO] - Test accuracy - 0.7666825373993095
+[2023-05-05 17:22:41,749][__main__][INFO] - Iteration 0, epoch 154, train accuracy 0.76, loss 0.2386
+[2023-05-05 17:22:44,758][__main__][INFO] - Test accuracy - 0.7663871547756042
+[2023-05-05 17:22:44,796][__main__][INFO] - Iteration 0, epoch 155, train accuracy 0.75, loss 0.2530
+[2023-05-05 17:22:47,855][__main__][INFO] - Test accuracy - 0.7665292002301496
+[2023-05-05 17:22:47,876][__main__][INFO] - Iteration 0, epoch 156, train accuracy 0.77, loss 0.2294
+[2023-05-05 17:22:50,906][__main__][INFO] - Test accuracy - 0.7666939729574221
+[2023-05-05 17:22:50,930][__main__][INFO] - Iteration 0, epoch 157, train accuracy 0.79, loss 0.2151
+[2023-05-05 17:22:53,989][__main__][INFO] - Test accuracy - 0.7667620828538549
+[2023-05-05 17:22:54,017][__main__][INFO] - Iteration 0, epoch 158, train accuracy 0.78, loss 0.2285
+[2023-05-05 17:22:57,050][__main__][INFO] - Test accuracy - 0.7666238492520137
+[2023-05-05 17:22:57,078][__main__][INFO] - Iteration 0, epoch 159, train accuracy 0.78, loss 0.2212
+[2023-05-05 17:23:00,123][__main__][INFO] - Test accuracy - 0.7670234464902186
+[2023-05-05 17:23:00,144][__main__][INFO] - Iteration 0, epoch 160, train accuracy 0.77, loss 0.2300
+[2023-05-05 17:23:03,193][__main__][INFO] - Test accuracy - 0.7671295310701957
+[2023-05-05 17:23:03,214][__main__][INFO] - Iteration 0, epoch 161, train accuracy 0.81, loss 0.1961
+[2023-05-05 17:23:06,230][__main__][INFO] - Test accuracy - 0.7669609464902186
+[2023-05-05 17:23:06,250][__main__][INFO] - Iteration 0, epoch 162, train accuracy 0.77, loss 0.2271
+[2023-05-05 17:23:09,293][__main__][INFO] - Test accuracy - 0.7669439010356732
+[2023-05-05 17:23:09,319][__main__][INFO] - Iteration 0, epoch 163, train accuracy 0.78, loss 0.2188
+[2023-05-05 17:23:12,364][__main__][INFO] - Test accuracy - 0.7672848101265823
+[2023-05-05 17:23:12,386][__main__][INFO] - Iteration 0, epoch 164, train accuracy 0.75, loss 0.2536
+[2023-05-05 17:23:15,456][__main__][INFO] - Test accuracy - 0.7670859464902186
+[2023-05-05 17:23:15,478][__main__][INFO] - Iteration 0, epoch 165, train accuracy 0.78, loss 0.2198
+[2023-05-05 17:23:18,550][__main__][INFO] - Test accuracy - 0.7671503164556962
+[2023-05-05 17:23:18,572][__main__][INFO] - Iteration 0, epoch 166, train accuracy 0.77, loss 0.2299
+[2023-05-05 17:23:21,600][__main__][INFO] - Test accuracy - 0.7669666283084005
+[2023-05-05 17:23:21,620][__main__][INFO] - Iteration 0, epoch 167, train accuracy 0.78, loss 0.2228
+[2023-05-05 17:23:24,596][__main__][INFO] - Test accuracy - 0.7673814010356732
+[2023-05-05 17:23:24,622][__main__][INFO] - Iteration 0, epoch 168, train accuracy 0.78, loss 0.2203
+[2023-05-05 17:23:27,730][__main__][INFO] - Test accuracy - 0.7669779919447641
+[2023-05-05 17:23:27,757][__main__][INFO] - Iteration 0, epoch 169, train accuracy 0.78, loss 0.2150
+[2023-05-05 17:23:30,620][__main__][INFO] - Test accuracy - 0.7674893555811276
+[2023-05-05 17:23:30,647][__main__][INFO] - Iteration 0, epoch 170, train accuracy 0.76, loss 0.2405
+[2023-05-05 17:23:33,654][__main__][INFO] - Test accuracy - 0.7671939010356733
+[2023-05-05 17:23:33,679][__main__][INFO] - Iteration 0, epoch 171, train accuracy 0.77, loss 0.2359
+[2023-05-05 17:23:36,704][__main__][INFO] - Test accuracy - 0.7677507192174914
+[2023-05-05 17:23:36,731][__main__][INFO] - Iteration 0, epoch 172, train accuracy 0.79, loss 0.2116
+[2023-05-05 17:23:39,775][__main__][INFO] - Test accuracy - 0.7679211737629459
+[2023-05-05 17:23:39,806][__main__][INFO] - Iteration 0, epoch 173, train accuracy 0.78, loss 0.2259
+[2023-05-05 17:23:42,837][__main__][INFO] - Test accuracy - 0.7675954401611047
+[2023-05-05 17:23:42,859][__main__][INFO] - Iteration 0, epoch 174, train accuracy 0.79, loss 0.2184
+[2023-05-05 17:23:45,894][__main__][INFO] - Test accuracy - 0.7681654919447641
+[2023-05-05 17:23:45,920][__main__][INFO] - Iteration 0, epoch 175, train accuracy 0.78, loss 0.2240
+[2023-05-05 17:23:48,980][__main__][INFO] - Test accuracy - 0.7678302646720369
+[2023-05-05 17:23:49,002][__main__][INFO] - Iteration 0, epoch 176, train accuracy 0.79, loss 0.2153
+[2023-05-05 17:23:52,048][__main__][INFO] - Test accuracy - 0.7671560701956271
+[2023-05-05 17:23:52,068][__main__][INFO] - Iteration 0, epoch 177, train accuracy 0.77, loss 0.2290
+[2023-05-05 17:23:55,087][__main__][INFO] - Test accuracy - 0.7678189010356733
+[2023-05-05 17:23:55,108][__main__][INFO] - Iteration 0, epoch 178, train accuracy 0.74, loss 0.2660
+[2023-05-05 17:23:58,173][__main__][INFO] - Test accuracy - 0.7679609464902186
+[2023-05-05 17:23:58,194][__main__][INFO] - Iteration 0, epoch 179, train accuracy 0.78, loss 0.2247
+[2023-05-05 17:24:01,253][__main__][INFO] - Test accuracy - 0.7675385500575373
+[2023-05-05 17:24:01,278][__main__][INFO] - Iteration 0, epoch 180, train accuracy 0.77, loss 0.2263
+[2023-05-05 17:24:04,313][__main__][INFO] - Test accuracy - 0.7680916283084003
+[2023-05-05 17:24:04,335][__main__][INFO] - Iteration 0, epoch 181, train accuracy 0.78, loss 0.2257
+[2023-05-05 17:24:07,359][__main__][INFO] - Test accuracy - 0.7680745828538549
+[2023-05-05 17:24:07,387][__main__][INFO] - Iteration 0, epoch 182, train accuracy 0.77, loss 0.2272
+[2023-05-05 17:24:10,412][__main__][INFO] - Test accuracy - 0.7676900891829689
+[2023-05-05 17:24:10,433][__main__][INFO] - Iteration 0, epoch 183, train accuracy 0.78, loss 0.2202
+[2023-05-05 17:24:13,488][__main__][INFO] - Test accuracy - 0.7683416283084005
+[2023-05-05 17:24:13,509][__main__][INFO] - Iteration 0, epoch 184, train accuracy 0.78, loss 0.2226
+[2023-05-05 17:24:16,518][__main__][INFO] - Test accuracy - 0.7678473820483315
+[2023-05-05 17:24:16,541][__main__][INFO] - Iteration 0, epoch 185, train accuracy 0.77, loss 0.2320
+[2023-05-05 17:24:19,570][__main__][INFO] - Test accuracy - 0.7682109464902186
+[2023-05-05 17:24:19,595][__main__][INFO] - Iteration 0, epoch 186, train accuracy 0.75, loss 0.2518
+[2023-05-05 17:24:22,609][__main__][INFO] - Test accuracy - 0.7687848101265822
+[2023-05-05 17:24:22,630][__main__][INFO] - Iteration 0, epoch 187, train accuracy 0.77, loss 0.2271
+[2023-05-05 17:24:25,676][__main__][INFO] - Test accuracy - 0.7683757192174913
+[2023-05-05 17:24:25,704][__main__][INFO] - Iteration 0, epoch 188, train accuracy 0.78, loss 0.2176
+[2023-05-05 17:24:28,803][__main__][INFO] - Test accuracy - 0.7687734464902185
+[2023-05-05 17:24:28,833][__main__][INFO] - Iteration 0, epoch 189, train accuracy 0.77, loss 0.2339
+[2023-05-05 17:24:31,859][__main__][INFO] - Test accuracy - 0.7685916283084004
+[2023-05-05 17:24:31,880][__main__][INFO] - Iteration 0, epoch 190, train accuracy 0.75, loss 0.2501
+[2023-05-05 17:24:34,890][__main__][INFO] - Test accuracy - 0.7685064010356732
+[2023-05-05 17:24:34,913][__main__][INFO] - Iteration 0, epoch 191, train accuracy 0.78, loss 0.2259
+[2023-05-05 17:24:37,954][__main__][INFO] - Test accuracy - 0.768852991944764
+[2023-05-05 17:24:37,974][__main__][INFO] - Iteration 0, epoch 192, train accuracy 0.76, loss 0.2454
+[2023-05-05 17:24:41,025][__main__][INFO] - Test accuracy - 0.7681162974683544
+[2023-05-05 17:24:41,049][__main__][INFO] - Iteration 0, epoch 193, train accuracy 0.80, loss 0.2062
+[2023-05-05 17:24:44,083][__main__][INFO] - Test accuracy - 0.7682298619102416
+[2023-05-05 17:24:44,109][__main__][INFO] - Iteration 0, epoch 194, train accuracy 0.80, loss 0.2016
+[2023-05-05 17:24:47,168][__main__][INFO] - Test accuracy - 0.7683605437284236
+[2023-05-05 17:24:47,189][__main__][INFO] - Iteration 0, epoch 195, train accuracy 0.79, loss 0.2114
+[2023-05-05 17:24:50,231][__main__][INFO] - Test accuracy - 0.7687204401611047
+[2023-05-05 17:24:50,256][__main__][INFO] - Iteration 0, epoch 196, train accuracy 0.78, loss 0.2245
+[2023-05-05 17:24:53,303][__main__][INFO] - Test accuracy - 0.768637082853855
+[2023-05-05 17:24:53,329][__main__][INFO] - Iteration 0, epoch 197, train accuracy 0.78, loss 0.2201
+[2023-05-05 17:24:56,377][__main__][INFO] - Test accuracy - 0.7689041283084005
+[2023-05-05 17:24:56,399][__main__][INFO] - Iteration 0, epoch 198, train accuracy 0.78, loss 0.2189
+[2023-05-05 17:24:59,444][__main__][INFO] - Test accuracy - 0.7683719792865363
+[2023-05-05 17:24:59,472][__main__][INFO] - Iteration 0, epoch 199, train accuracy 0.76, loss 0.2404
+[2023-05-05 17:25:02,531][__main__][INFO] - Test accuracy - 0.7692166283084005
+[2023-05-05 17:25:02,551][__main__][INFO] - Iteration 0, epoch 200, train accuracy 0.77, loss 0.2344
+[2023-05-05 17:25:05,546][__main__][INFO] - Test accuracy - 0.7686939010356731
+[2023-05-05 17:25:05,568][__main__][INFO] - Iteration 0, epoch 201, train accuracy 0.79, loss 0.2131
+[2023-05-05 17:25:08,635][__main__][INFO] - Test accuracy - 0.7691200373993096
+[2023-05-05 17:25:08,659][__main__][INFO] - Iteration 0, epoch 202, train accuracy 0.77, loss 0.2305
+[2023-05-05 17:25:11,701][__main__][INFO] - Test accuracy - 0.7691825373993094
+[2023-05-05 17:25:11,725][__main__][INFO] - Iteration 0, epoch 203, train accuracy 0.75, loss 0.2533
+[2023-05-05 17:25:14,770][__main__][INFO] - Test accuracy - 0.7691314010356731
+[2023-05-05 17:25:14,801][__main__][INFO] - Iteration 0, epoch 204, train accuracy 0.78, loss 0.2226
+[2023-05-05 17:25:17,806][__main__][INFO] - Test accuracy - 0.7687923619102416
+[2023-05-05 17:25:17,832][__main__][INFO] - Iteration 0, epoch 205, train accuracy 0.77, loss 0.2313
+[2023-05-05 17:25:20,846][__main__][INFO] - Test accuracy - 0.768852991944764
+[2023-05-05 17:25:20,871][__main__][INFO] - Iteration 0, epoch 206, train accuracy 0.77, loss 0.2325
+[2023-05-05 17:25:23,911][__main__][INFO] - Test accuracy - 0.7685765966628307
+[2023-05-05 17:25:23,932][__main__][INFO] - Iteration 0, epoch 207, train accuracy 0.78, loss 0.2216
+[2023-05-05 17:25:26,984][__main__][INFO] - Test accuracy - 0.7693908947065592
+[2023-05-05 17:25:27,007][__main__][INFO] - Iteration 0, epoch 208, train accuracy 0.79, loss 0.2100
+[2023-05-05 17:25:30,044][__main__][INFO] - Test accuracy - 0.7693302646720368
+[2023-05-05 17:25:30,067][__main__][INFO] - Iteration 0, epoch 209, train accuracy 0.79, loss 0.2168
+[2023-05-05 17:25:33,135][__main__][INFO] - Test accuracy - 0.7691939010356731
+[2023-05-05 17:25:33,160][__main__][INFO] - Iteration 0, epoch 210, train accuracy 0.80, loss 0.1991
+[2023-05-05 17:25:36,205][__main__][INFO] - Test accuracy - 0.7682828682393555
+[2023-05-05 17:25:36,231][__main__][INFO] - Iteration 0, epoch 211, train accuracy 0.77, loss 0.2326
+[2023-05-05 17:25:39,295][__main__][INFO] - Test accuracy - 0.7696579401611047
+[2023-05-05 17:25:39,321][__main__][INFO] - Iteration 0, epoch 212, train accuracy 0.78, loss 0.2257
+[2023-05-05 17:25:42,348][__main__][INFO] - Test accuracy - 0.7695007911392405
+[2023-05-05 17:25:42,369][__main__][INFO] - Iteration 0, epoch 213, train accuracy 0.79, loss 0.2081
+[2023-05-05 17:25:45,407][__main__][INFO] - Test accuracy - 0.7694666283084004
+[2023-05-05 17:25:45,432][__main__][INFO] - Iteration 0, epoch 214, train accuracy 0.79, loss 0.2134
+[2023-05-05 17:25:48,481][__main__][INFO] - Test accuracy - 0.7695064010356731
+[2023-05-05 17:25:48,506][__main__][INFO] - Iteration 0, epoch 215, train accuracy 0.75, loss 0.2484
+[2023-05-05 17:25:51,504][__main__][INFO] - Test accuracy - 0.7699420310701955
+[2023-05-05 17:25:51,534][__main__][INFO] - Iteration 0, epoch 216, train accuracy 0.78, loss 0.2213
+[2023-05-05 17:25:54,547][__main__][INFO] - Test accuracy - 0.7698511219792866
+[2023-05-05 17:25:54,568][__main__][INFO] - Iteration 0, epoch 217, train accuracy 0.77, loss 0.2304
+[2023-05-05 17:25:57,582][__main__][INFO] - Test accuracy - 0.7699477128883774
+[2023-05-05 17:25:57,606][__main__][INFO] - Iteration 0, epoch 218, train accuracy 0.78, loss 0.2213
+[2023-05-05 17:26:00,649][__main__][INFO] - Test accuracy - 0.7701124856156502
+[2023-05-05 17:26:00,670][__main__][INFO] - Iteration 0, epoch 219, train accuracy 0.76, loss 0.2441
+[2023-05-05 17:26:03,718][__main__][INFO] - Test accuracy - 0.7693889528193325
+[2023-05-05 17:26:03,744][__main__][INFO] - Iteration 0, epoch 220, train accuracy 0.77, loss 0.2338
+[2023-05-05 17:26:06,779][__main__][INFO] - Test accuracy - 0.7700727128883774
+[2023-05-05 17:26:06,803][__main__][INFO] - Iteration 0, epoch 221, train accuracy 0.77, loss 0.2315
+[2023-05-05 17:26:09,875][__main__][INFO] - Test accuracy - 0.7698814010356732
+[2023-05-05 17:26:09,900][__main__][INFO] - Iteration 0, epoch 222, train accuracy 0.76, loss 0.2472
+[2023-05-05 17:26:12,974][__main__][INFO] - Test accuracy - 0.769655998273878
+[2023-05-05 17:26:12,994][__main__][INFO] - Iteration 0, epoch 223, train accuracy 0.79, loss 0.2115
+[2023-05-05 17:26:16,020][__main__][INFO] - Test accuracy - 0.7701200373993096
+[2023-05-05 17:26:16,042][__main__][INFO] - Iteration 0, epoch 224, train accuracy 0.77, loss 0.2266
+[2023-05-05 17:26:19,093][__main__][INFO] - Test accuracy - 0.7694856875719217
+[2023-05-05 17:26:19,114][__main__][INFO] - Iteration 0, epoch 225, train accuracy 0.78, loss 0.2187
+[2023-05-05 17:26:22,148][__main__][INFO] - Test accuracy - 0.7693908227848102
+[2023-05-05 17:26:22,168][__main__][INFO] - Iteration 0, epoch 226, train accuracy 0.77, loss 0.2269
+[2023-05-05 17:26:25,192][__main__][INFO] - Test accuracy - 0.7697071346375143
+[2023-05-05 17:26:25,217][__main__][INFO] - Iteration 0, epoch 227, train accuracy 0.80, loss 0.2046
+[2023-05-05 17:26:28,269][__main__][INFO] - Test accuracy - 0.770040491944764
+[2023-05-05 17:26:28,292][__main__][INFO] - Iteration 0, epoch 228, train accuracy 0.77, loss 0.2270
+[2023-05-05 17:26:31,339][__main__][INFO] - Test accuracy - 0.7701484464902186
+[2023-05-05 17:26:31,358][__main__][INFO] - Iteration 0, epoch 229, train accuracy 0.79, loss 0.2196
+[2023-05-05 17:26:34,392][__main__][INFO] - Test accuracy - 0.7704249856156501
+[2023-05-05 17:26:34,414][__main__][INFO] - Iteration 0, epoch 230, train accuracy 0.77, loss 0.2329
+[2023-05-05 17:26:37,443][__main__][INFO] - Test accuracy - 0.7703947065592636
+[2023-05-05 17:26:37,463][__main__][INFO] - Iteration 0, epoch 231, train accuracy 0.78, loss 0.2198
+[2023-05-05 17:26:40,486][__main__][INFO] - Test accuracy - 0.770243167433832
+[2023-05-05 17:26:40,508][__main__][INFO] - Iteration 0, epoch 232, train accuracy 0.77, loss 0.2298
+[2023-05-05 17:26:43,533][__main__][INFO] - Test accuracy - 0.7705083429228998
+[2023-05-05 17:26:43,563][__main__][INFO] - Iteration 0, epoch 233, train accuracy 0.78, loss 0.2249
+[2023-05-05 17:26:46,579][__main__][INFO] - Test accuracy - 0.7704477128883773
+[2023-05-05 17:26:46,602][__main__][INFO] - Iteration 0, epoch 234, train accuracy 0.77, loss 0.2302
+[2023-05-05 17:26:49,689][__main__][INFO] - Test accuracy - 0.7700139528193326
+[2023-05-05 17:26:49,716][__main__][INFO] - Iteration 0, epoch 235, train accuracy 0.77, loss 0.2265
+[2023-05-05 17:26:52,769][__main__][INFO] - Test accuracy - 0.7706220512082854
+[2023-05-05 17:26:52,799][__main__][INFO] - Iteration 0, epoch 236, train accuracy 0.78, loss 0.2218
+[2023-05-05 17:26:55,808][__main__][INFO] - Test accuracy - 0.7707697065592634
+[2023-05-05 17:26:55,831][__main__][INFO] - Iteration 0, epoch 237, train accuracy 0.80, loss 0.2044
+[2023-05-05 17:26:58,888][__main__][INFO] - Test accuracy - 0.7706125575373993
+[2023-05-05 17:26:58,913][__main__][INFO] - Iteration 0, epoch 238, train accuracy 0.77, loss 0.2334
+[2023-05-05 17:27:01,963][__main__][INFO] - Test accuracy - 0.770559407364787
+[2023-05-05 17:27:01,992][__main__][INFO] - Iteration 0, epoch 239, train accuracy 0.77, loss 0.2284
+[2023-05-05 17:27:05,021][__main__][INFO] - Test accuracy - 0.7706768555811276
+[2023-05-05 17:27:05,048][__main__][INFO] - Iteration 0, epoch 240, train accuracy 0.78, loss 0.2213
+[2023-05-05 17:27:08,085][__main__][INFO] - Test accuracy - 0.7709856875719218
+[2023-05-05 17:27:08,108][__main__][INFO] - Iteration 0, epoch 241, train accuracy 0.78, loss 0.2264
+[2023-05-05 17:27:11,136][__main__][INFO] - Test accuracy - 0.7706447065592634
+[2023-05-05 17:27:11,162][__main__][INFO] - Iteration 0, epoch 242, train accuracy 0.77, loss 0.2334
+[2023-05-05 17:27:14,220][__main__][INFO] - Test accuracy - 0.7711504602991944
+[2023-05-05 17:27:14,246][__main__][INFO] - Iteration 0, epoch 243, train accuracy 0.78, loss 0.2245
+[2023-05-05 17:27:17,310][__main__][INFO] - Test accuracy - 0.7706711737629459
+[2023-05-05 17:27:17,336][__main__][INFO] - Iteration 0, epoch 244, train accuracy 0.78, loss 0.2177
+[2023-05-05 17:27:20,395][__main__][INFO] - Test accuracy - 0.7708094073647871
+[2023-05-05 17:27:20,418][__main__][INFO] - Iteration 0, epoch 245, train accuracy 0.80, loss 0.2014
+[2023-05-05 17:27:23,428][__main__][INFO] - Test accuracy - 0.7712374856156501
+[2023-05-05 17:27:23,448][__main__][INFO] - Iteration 0, epoch 246, train accuracy 0.78, loss 0.2183
+[2023-05-05 17:27:26,788][__main__][INFO] - Test accuracy - 0.7713568037974684
+[2023-05-05 17:27:26,818][__main__][INFO] - Iteration 0, epoch 247, train accuracy 0.79, loss 0.2103
+[2023-05-05 17:27:30,137][__main__][INFO] - Test accuracy - 0.7710897583429227
+[2023-05-05 17:27:30,157][__main__][INFO] - Iteration 0, epoch 248, train accuracy 0.79, loss 0.2118
+[2023-05-05 17:27:33,259][__main__][INFO] - Test accuracy - 0.7713493239355581
+[2023-05-05 17:27:33,284][__main__][INFO] - Iteration 0, epoch 249, train accuracy 0.77, loss 0.2262
+[2023-05-05 17:27:36,574][__main__][INFO] - Test accuracy - 0.7710234464902186
+[2023-05-05 17:27:36,595][__main__][INFO] - Iteration 0, epoch 250, train accuracy 0.77, loss 0.2339
+[2023-05-05 17:27:39,857][__main__][INFO] - Test accuracy - 0.7717204401611049
+[2023-05-05 17:27:39,896][__main__][INFO] - Iteration 0, epoch 251, train accuracy 0.76, loss 0.2418
+[2023-05-05 17:27:43,393][__main__][INFO] - Test accuracy - 0.7714779919447641
+[2023-05-05 17:27:43,414][__main__][INFO] - Iteration 0, epoch 252, train accuracy 0.76, loss 0.2423
+[2023-05-05 17:27:46,612][__main__][INFO] - Test accuracy - 0.7716408947065593
+[2023-05-05 17:27:46,640][__main__][INFO] - Iteration 0, epoch 253, train accuracy 0.75, loss 0.2512
+[2023-05-05 17:27:49,715][__main__][INFO] - Test accuracy - 0.7711656357882624
+[2023-05-05 17:27:49,745][__main__][INFO] - Iteration 0, epoch 254, train accuracy 0.78, loss 0.2283
+[2023-05-05 17:27:53,037][__main__][INFO] - Test accuracy - 0.7715197065592634
+[2023-05-05 17:27:53,060][__main__][INFO] - Iteration 0, epoch 255, train accuracy 0.80, loss 0.2066
+[2023-05-05 17:27:56,216][__main__][INFO] - Test accuracy - 0.7711749136939011
+[2023-05-05 17:27:56,239][__main__][INFO] - Iteration 0, epoch 256, train accuracy 0.80, loss 0.1981
+[2023-05-05 17:27:59,407][__main__][INFO] - Test accuracy - 0.7716901611047181
+[2023-05-05 17:27:59,434][__main__][INFO] - Iteration 0, epoch 257, train accuracy 0.77, loss 0.2260
+[2023-05-05 17:28:02,639][__main__][INFO] - Test accuracy - 0.7713018555811277
+[2023-05-05 17:28:02,670][__main__][INFO] - Iteration 0, epoch 258, train accuracy 0.78, loss 0.2219
+[2023-05-05 17:28:05,810][__main__][INFO] - Test accuracy - 0.7717015247410817
+[2023-05-05 17:28:05,832][__main__][INFO] - Iteration 0, epoch 259, train accuracy 0.80, loss 0.2046
+[2023-05-05 17:28:08,910][__main__][INFO] - Test accuracy - 0.7711180955120828
+[2023-05-05 17:28:08,937][__main__][INFO] - Iteration 0, epoch 260, train accuracy 0.80, loss 0.2090
+[2023-05-05 17:28:11,969][__main__][INFO] - Test accuracy - 0.7717848101265823
+[2023-05-05 17:28:11,990][__main__][INFO] - Iteration 0, epoch 261, train accuracy 0.75, loss 0.2517
+[2023-05-05 17:28:15,200][__main__][INFO] - Test accuracy - 0.7714457710011507
+[2023-05-05 17:28:15,232][__main__][INFO] - Iteration 0, epoch 262, train accuracy 0.77, loss 0.2291
+[2023-05-05 17:28:18,403][__main__][INFO] - Test accuracy - 0.7703074654775605
+[2023-05-05 17:28:18,429][__main__][INFO] - Iteration 0, epoch 263, train accuracy 0.77, loss 0.2323
+[2023-05-05 17:28:21,599][__main__][INFO] - Test accuracy - 0.7716693037974683
+[2023-05-05 17:28:21,622][__main__][INFO] - Iteration 0, epoch 264, train accuracy 0.80, loss 0.2005
+[2023-05-05 17:28:24,807][__main__][INFO] - Test accuracy - 0.7718037974683544
+[2023-05-05 17:28:24,829][__main__][INFO] - Iteration 0, epoch 265, train accuracy 0.76, loss 0.2344
+[2023-05-05 17:28:27,995][__main__][INFO] - Test accuracy - 0.7719515247410818
+[2023-05-05 17:28:28,016][__main__][INFO] - Iteration 0, epoch 266, train accuracy 0.77, loss 0.2303
+[2023-05-05 17:28:31,223][__main__][INFO] - Test accuracy - 0.7711919591484466
+[2023-05-05 17:28:31,245][__main__][INFO] - Iteration 0, epoch 267, train accuracy 0.79, loss 0.2174
+[2023-05-05 17:28:34,474][__main__][INFO] - Test accuracy - 0.7720366800920598
+[2023-05-05 17:28:34,498][__main__][INFO] - Iteration 0, epoch 268, train accuracy 0.78, loss 0.2180
+[2023-05-05 17:28:37,753][__main__][INFO] - Test accuracy - 0.7724628883774454
+[2023-05-05 17:28:37,781][__main__][INFO] - Iteration 0, epoch 269, train accuracy 0.79, loss 0.2171
+[2023-05-05 17:28:40,729][__main__][INFO] - Test accuracy - 0.7714287255466054
+[2023-05-05 17:28:40,756][__main__][INFO] - Iteration 0, epoch 270, train accuracy 0.79, loss 0.2108
+[2023-05-05 17:28:43,826][__main__][INFO] - Test accuracy - 0.7722184982738779
+[2023-05-05 17:28:43,850][__main__][INFO] - Iteration 0, epoch 271, train accuracy 0.79, loss 0.2147
+[2023-05-05 17:28:46,920][__main__][INFO] - Test accuracy - 0.7722980437284235
+[2023-05-05 17:28:46,940][__main__][INFO] - Iteration 0, epoch 272, train accuracy 0.78, loss 0.2288
+[2023-05-05 17:28:49,925][__main__][INFO] - Test accuracy - 0.7726787974683543
+[2023-05-05 17:28:49,946][__main__][INFO] - Iteration 0, epoch 273, train accuracy 0.79, loss 0.2187
+[2023-05-05 17:28:52,839][__main__][INFO] - Test accuracy - 0.7723492520138091
+[2023-05-05 17:28:52,860][__main__][INFO] - Iteration 0, epoch 274, train accuracy 0.79, loss 0.2102
+[2023-05-05 17:28:55,863][__main__][INFO] - Test accuracy - 0.7720366800920598
+[2023-05-05 17:28:55,884][__main__][INFO] - Iteration 0, epoch 275, train accuracy 0.77, loss 0.2285
+[2023-05-05 17:28:59,184][__main__][INFO] - Test accuracy - 0.7722071346375142
+[2023-05-05 17:28:59,210][__main__][INFO] - Iteration 0, epoch 276, train accuracy 0.78, loss 0.2277
+[2023-05-05 17:29:02,379][__main__][INFO] - Test accuracy - 0.7726238492520139
+[2023-05-05 17:29:02,403][__main__][INFO] - Iteration 0, epoch 277, train accuracy 0.77, loss 0.2261
+[2023-05-05 17:29:05,606][__main__][INFO] - Test accuracy - 0.7718264528193326
+[2023-05-05 17:29:05,627][__main__][INFO] - Iteration 0, epoch 278, train accuracy 0.78, loss 0.2255
+[2023-05-05 17:29:08,708][__main__][INFO] - Test accuracy - 0.7724344792865362
+[2023-05-05 17:29:08,737][__main__][INFO] - Iteration 0, epoch 279, train accuracy 0.81, loss 0.1929
+[2023-05-05 17:29:11,879][__main__][INFO] - Test accuracy - 0.7721730437284235
+[2023-05-05 17:29:11,904][__main__][INFO] - Iteration 0, epoch 280, train accuracy 0.77, loss 0.2329
+[2023-05-05 17:29:15,075][__main__][INFO] - Test accuracy - 0.7726731156501727
+[2023-05-05 17:29:15,101][__main__][INFO] - Iteration 0, epoch 281, train accuracy 0.74, loss 0.2592
+[2023-05-05 17:29:18,248][__main__][INFO] - Test accuracy - 0.7726389528193326
+[2023-05-05 17:29:18,267][__main__][INFO] - Iteration 0, epoch 282, train accuracy 0.77, loss 0.2269
+[2023-05-05 17:29:21,404][__main__][INFO] - Test accuracy - 0.7726997266973533
+[2023-05-05 17:29:21,431][__main__][INFO] - Iteration 0, epoch 283, train accuracy 0.78, loss 0.2207
+[2023-05-05 17:29:24,558][__main__][INFO] - Test accuracy - 0.7722184982738779
+[2023-05-05 17:29:24,586][__main__][INFO] - Iteration 0, epoch 284, train accuracy 0.76, loss 0.2350
+[2023-05-05 17:29:27,758][__main__][INFO] - Test accuracy - 0.7729174338319909
+[2023-05-05 17:29:27,795][__main__][INFO] - Iteration 0, epoch 285, train accuracy 0.79, loss 0.2080
+[2023-05-05 17:29:30,991][__main__][INFO] - Test accuracy - 0.7725366800920597
+[2023-05-05 17:29:31,014][__main__][INFO] - Iteration 0, epoch 286, train accuracy 0.77, loss 0.2344
+[2023-05-05 17:29:34,251][__main__][INFO] - Test accuracy - 0.7729628164556963
+[2023-05-05 17:29:34,275][__main__][INFO] - Iteration 0, epoch 287, train accuracy 0.76, loss 0.2394
+[2023-05-05 17:29:37,326][__main__][INFO] - Test accuracy - 0.7730140247410818
+[2023-05-05 17:29:37,366][__main__][INFO] - Iteration 0, epoch 288, train accuracy 0.78, loss 0.2221
+[2023-05-05 17:29:40,616][__main__][INFO] - Test accuracy - 0.7729875575373995
+[2023-05-05 17:29:40,638][__main__][INFO] - Iteration 0, epoch 289, train accuracy 0.78, loss 0.2189
+[2023-05-05 17:29:43,829][__main__][INFO] - Test accuracy - 0.772977991944764
+[2023-05-05 17:29:43,854][__main__][INFO] - Iteration 0, epoch 290, train accuracy 0.78, loss 0.2181
+[2023-05-05 17:29:47,068][__main__][INFO] - Test accuracy - 0.7730215765247411
+[2023-05-05 17:29:47,093][__main__][INFO] - Iteration 0, epoch 291, train accuracy 0.76, loss 0.2359
+[2023-05-05 17:29:50,264][__main__][INFO] - Test accuracy - 0.7733321346375145
+[2023-05-05 17:29:50,292][__main__][INFO] - Iteration 0, epoch 292, train accuracy 0.78, loss 0.2218
+[2023-05-05 17:29:53,484][__main__][INFO] - Test accuracy - 0.7733227128883775
+[2023-05-05 17:29:53,509][__main__][INFO] - Iteration 0, epoch 293, train accuracy 0.78, loss 0.2205
+[2023-05-05 17:29:56,700][__main__][INFO] - Test accuracy - 0.7730366800920598
+[2023-05-05 17:29:56,727][__main__][INFO] - Iteration 0, epoch 294, train accuracy 0.77, loss 0.2325
+[2023-05-05 17:29:59,906][__main__][INFO] - Test accuracy - 0.7733170310701954
+[2023-05-05 17:29:59,927][__main__][INFO] - Iteration 0, epoch 295, train accuracy 0.79, loss 0.2152
+[2023-05-05 17:30:03,242][__main__][INFO] - Test accuracy - 0.7733113492520137
+[2023-05-05 17:30:03,271][__main__][INFO] - Iteration 0, epoch 296, train accuracy 0.78, loss 0.2226
+[2023-05-05 17:30:06,558][__main__][INFO] - Test accuracy - 0.7735650891829688
+[2023-05-05 17:30:06,589][__main__][INFO] - Iteration 0, epoch 297, train accuracy 0.78, loss 0.2215
+[2023-05-05 17:30:09,881][__main__][INFO] - Test accuracy - 0.7732185701956272
+[2023-05-05 17:30:09,912][__main__][INFO] - Iteration 0, epoch 298, train accuracy 0.78, loss 0.2167
+[2023-05-05 17:30:13,223][__main__][INFO] - Test accuracy - 0.7730576093210586
+[2023-05-05 17:30:13,243][__main__][INFO] - Iteration 0, epoch 299, train accuracy 0.79, loss 0.2140
+[2023-05-05 17:30:16,337][__main__][INFO] - Test accuracy - 0.7723472382048332
+[2023-05-05 17:30:16,361][__main__][INFO] - Iteration 0, epoch 300, train accuracy 0.78, loss 0.2216
+[2023-05-05 17:30:19,540][__main__][INFO] - Test accuracy - 0.7736579401611047
+[2023-05-05 17:30:19,565][__main__][INFO] - Iteration 0, epoch 301, train accuracy 0.79, loss 0.2161
+[2023-05-05 17:30:22,871][__main__][INFO] - Test accuracy - 0.773430667433832
+[2023-05-05 17:30:22,897][__main__][INFO] - Iteration 0, epoch 302, train accuracy 0.78, loss 0.2156
+[2023-05-05 17:30:26,262][__main__][INFO] - Test accuracy - 0.7735366800920598
+[2023-05-05 17:30:26,289][__main__][INFO] - Iteration 0, epoch 303, train accuracy 0.78, loss 0.2237
+[2023-05-05 17:30:29,565][__main__][INFO] - Test accuracy - 0.7735271864211737
+[2023-05-05 17:30:29,584][__main__][INFO] - Iteration 0, epoch 304, train accuracy 0.79, loss 0.2127
+[2023-05-05 17:30:32,904][__main__][INFO] - Test accuracy - 0.7737564010356731
+[2023-05-05 17:30:32,926][__main__][INFO] - Iteration 0, epoch 305, train accuracy 0.78, loss 0.2265
+[2023-05-05 17:30:36,172][__main__][INFO] - Test accuracy - 0.7740707710011508
+[2023-05-05 17:30:36,193][__main__][INFO] - Iteration 0, epoch 306, train accuracy 0.79, loss 0.2140
+[2023-05-05 17:30:39,473][__main__][INFO] - Test accuracy - 0.7740329401611047
+[2023-05-05 17:30:39,499][__main__][INFO] - Iteration 0, epoch 307, train accuracy 0.78, loss 0.2251
+[2023-05-05 17:30:43,069][__main__][INFO] - Test accuracy - 0.7737923619102417
+[2023-05-05 17:30:43,092][__main__][INFO] - Iteration 0, epoch 308, train accuracy 0.78, loss 0.2199
+[2023-05-05 17:30:46,455][__main__][INFO] - Test accuracy - 0.7743908227848102
+[2023-05-05 17:30:46,483][__main__][INFO] - Iteration 0, epoch 309, train accuracy 0.78, loss 0.2266
+[2023-05-05 17:30:49,957][__main__][INFO] - Test accuracy - 0.7742242520138088
+[2023-05-05 17:30:49,980][__main__][INFO] - Iteration 0, epoch 310, train accuracy 0.78, loss 0.2268
+[2023-05-05 17:30:53,248][__main__][INFO] - Test accuracy - 0.7739988492520137
+[2023-05-05 17:30:53,277][__main__][INFO] - Iteration 0, epoch 311, train accuracy 0.77, loss 0.2354
+[2023-05-05 17:30:56,605][__main__][INFO] - Test accuracy - 0.7743965046029918
+[2023-05-05 17:30:56,631][__main__][INFO] - Iteration 0, epoch 312, train accuracy 0.76, loss 0.2381
+[2023-05-05 17:30:59,796][__main__][INFO] - Test accuracy - 0.7742696346375144
+[2023-05-05 17:30:59,818][__main__][INFO] - Iteration 0, epoch 313, train accuracy 0.78, loss 0.2204
+[2023-05-05 17:31:02,927][__main__][INFO] - Test accuracy - 0.7746219073647871
+[2023-05-05 17:31:02,949][__main__][INFO] - Iteration 0, epoch 314, train accuracy 0.76, loss 0.2435
+[2023-05-05 17:31:05,980][__main__][INFO] - Test accuracy - 0.7745292002301496
+[2023-05-05 17:31:06,004][__main__][INFO] - Iteration 0, epoch 315, train accuracy 0.79, loss 0.2066
+[2023-05-05 17:31:09,026][__main__][INFO] - Test accuracy - 0.7743055955120828
+[2023-05-05 17:31:09,048][__main__][INFO] - Iteration 0, epoch 316, train accuracy 0.79, loss 0.2168
+[2023-05-05 17:31:12,119][__main__][INFO] - Test accuracy - 0.7743530638665131
+[2023-05-05 17:31:12,145][__main__][INFO] - Iteration 0, epoch 317, train accuracy 0.78, loss 0.2239
+[2023-05-05 17:31:15,201][__main__][INFO] - Test accuracy - 0.7748207710011509
+[2023-05-05 17:31:15,221][__main__][INFO] - Iteration 0, epoch 318, train accuracy 0.79, loss 0.2163
+[2023-05-05 17:31:18,285][__main__][INFO] - Test accuracy - 0.7747507192174914
+[2023-05-05 17:31:18,311][__main__][INFO] - Iteration 0, epoch 319, train accuracy 0.77, loss 0.2265
+[2023-05-05 17:31:21,375][__main__][INFO] - Test accuracy - 0.7742602848101264
+[2023-05-05 17:31:21,397][__main__][INFO] - Iteration 0, epoch 320, train accuracy 0.77, loss 0.2337
+[2023-05-05 17:31:24,432][__main__][INFO] - Test accuracy - 0.774158084004603
+[2023-05-05 17:31:24,452][__main__][INFO] - Iteration 0, epoch 321, train accuracy 0.80, loss 0.2051
+[2023-05-05 17:31:27,534][__main__][INFO] - Test accuracy - 0.7740974539700806
+[2023-05-05 17:31:27,556][__main__][INFO] - Iteration 0, epoch 322, train accuracy 0.76, loss 0.2413
+[2023-05-05 17:31:30,669][__main__][INFO] - Test accuracy - 0.7747487773302647
+[2023-05-05 17:31:30,691][__main__][INFO] - Iteration 0, epoch 323, train accuracy 0.78, loss 0.2257
+[2023-05-05 17:31:33,776][__main__][INFO] - Test accuracy - 0.7733301927502876
+[2023-05-05 17:31:33,798][__main__][INFO] - Iteration 0, epoch 324, train accuracy 0.78, loss 0.2192
+[2023-05-05 17:31:36,857][__main__][INFO] - Test accuracy - 0.7750253883774453
+[2023-05-05 17:31:36,883][__main__][INFO] - Iteration 0, epoch 325, train accuracy 0.80, loss 0.2072
+[2023-05-05 17:31:39,912][__main__][INFO] - Test accuracy - 0.774580336593786
+[2023-05-05 17:31:39,934][__main__][INFO] - Iteration 0, epoch 326, train accuracy 0.80, loss 0.2026
+[2023-05-05 17:31:42,999][__main__][INFO] - Test accuracy - 0.7751162255466053
+[2023-05-05 17:31:43,020][__main__][INFO] - Iteration 0, epoch 327, train accuracy 0.78, loss 0.2273
+[2023-05-05 17:31:46,086][__main__][INFO] - Test accuracy - 0.7751787255466053
+[2023-05-05 17:31:46,106][__main__][INFO] - Iteration 0, epoch 328, train accuracy 0.78, loss 0.2207
+[2023-05-05 17:31:49,135][__main__][INFO] - Test accuracy - 0.7745538693901036
+[2023-05-05 17:31:49,155][__main__][INFO] - Iteration 0, epoch 329, train accuracy 0.81, loss 0.1969
+[2023-05-05 17:31:52,213][__main__][INFO] - Test accuracy - 0.7752676927502876
+[2023-05-05 17:31:52,233][__main__][INFO] - Iteration 0, epoch 330, train accuracy 0.78, loss 0.2271
+[2023-05-05 17:31:55,323][__main__][INFO] - Test accuracy - 0.7750158227848101
+[2023-05-05 17:31:55,346][__main__][INFO] - Iteration 0, epoch 331, train accuracy 0.78, loss 0.2216
+[2023-05-05 17:31:58,404][__main__][INFO] - Test accuracy - 0.7749231875719218
+[2023-05-05 17:31:58,425][__main__][INFO] - Iteration 0, epoch 332, train accuracy 0.78, loss 0.2235
+[2023-05-05 17:32:01,478][__main__][INFO] - Test accuracy - 0.7745368239355582
+[2023-05-05 17:32:01,498][__main__][INFO] - Iteration 0, epoch 333, train accuracy 0.79, loss 0.2142
+[2023-05-05 17:32:04,558][__main__][INFO] - Test accuracy - 0.7758340046029919
+[2023-05-05 17:32:04,581][__main__][INFO] - Iteration 0, epoch 334, train accuracy 0.78, loss 0.2198
+[2023-05-05 17:32:07,606][__main__][INFO] - Test accuracy - 0.7755689729574222
+[2023-05-05 17:32:07,629][__main__][INFO] - Iteration 0, epoch 335, train accuracy 0.76, loss 0.2424
+[2023-05-05 17:32:10,669][__main__][INFO] - Test accuracy - 0.7742165563866511
+[2023-05-05 17:32:10,689][__main__][INFO] - Iteration 0, epoch 336, train accuracy 0.78, loss 0.2181
+[2023-05-05 17:32:13,780][__main__][INFO] - Test accuracy - 0.7759647583429228
+[2023-05-05 17:32:13,807][__main__][INFO] - Iteration 0, epoch 337, train accuracy 0.78, loss 0.2219
+[2023-05-05 17:32:16,849][__main__][INFO] - Test accuracy - 0.7760727128883773
+[2023-05-05 17:32:16,868][__main__][INFO] - Iteration 0, epoch 338, train accuracy 0.80, loss 0.2084
+[2023-05-05 17:32:19,879][__main__][INFO] - Test accuracy - 0.7756750575373993
+[2023-05-05 17:32:19,903][__main__][INFO] - Iteration 0, epoch 339, train accuracy 0.79, loss 0.2109
+[2023-05-05 17:32:22,982][__main__][INFO] - Test accuracy - 0.7751011939010355
+[2023-05-05 17:32:23,003][__main__][INFO] - Iteration 0, epoch 340, train accuracy 0.77, loss 0.2324
+[2023-05-05 17:32:26,068][__main__][INFO] - Test accuracy - 0.7753550057537398
+[2023-05-05 17:32:26,089][__main__][INFO] - Iteration 0, epoch 341, train accuracy 0.76, loss 0.2381
+[2023-05-05 17:32:29,163][__main__][INFO] - Test accuracy - 0.7756294591484465
+[2023-05-05 17:32:29,185][__main__][INFO] - Iteration 0, epoch 342, train accuracy 0.79, loss 0.2078
+[2023-05-05 17:32:32,238][__main__][INFO] - Test accuracy - 0.7758416283084005
+[2023-05-05 17:32:32,267][__main__][INFO] - Iteration 0, epoch 343, train accuracy 0.77, loss 0.2370
+[2023-05-05 17:32:35,314][__main__][INFO] - Test accuracy - 0.7760443037974682
+[2023-05-05 17:32:35,334][__main__][INFO] - Iteration 0, epoch 344, train accuracy 0.78, loss 0.2206
+[2023-05-05 17:32:38,374][__main__][INFO] - Test accuracy - 0.7754836018411967
+[2023-05-05 17:32:38,397][__main__][INFO] - Iteration 0, epoch 345, train accuracy 0.78, loss 0.2270
+[2023-05-05 17:32:41,452][__main__][INFO] - Test accuracy - 0.7761863492520138
+[2023-05-05 17:32:41,477][__main__][INFO] - Iteration 0, epoch 346, train accuracy 0.77, loss 0.2343
+[2023-05-05 17:32:44,545][__main__][INFO] - Test accuracy - 0.7761030638665131
+[2023-05-05 17:32:44,566][__main__][INFO] - Iteration 0, epoch 347, train accuracy 0.80, loss 0.2040
+[2023-05-05 17:32:47,632][__main__][INFO] - Test accuracy - 0.7763132192174914
+[2023-05-05 17:32:47,656][__main__][INFO] - Iteration 0, epoch 348, train accuracy 0.79, loss 0.2134
+[2023-05-05 17:32:50,701][__main__][INFO] - Test accuracy - 0.7761049338319908
+[2023-05-05 17:32:50,725][__main__][INFO] - Iteration 0, epoch 349, train accuracy 0.78, loss 0.2179
+[2023-05-05 17:32:53,780][__main__][INFO] - Test accuracy - 0.775627589182969
+[2023-05-05 17:32:53,807][__main__][INFO] - Iteration 0, epoch 350, train accuracy 0.79, loss 0.2114
+[2023-05-05 17:32:56,844][__main__][INFO] - Test accuracy - 0.7764666283084004
+[2023-05-05 17:32:56,864][__main__][INFO] - Iteration 0, epoch 351, train accuracy 0.79, loss 0.2158
+[2023-05-05 17:32:59,904][__main__][INFO] - Test accuracy - 0.776165491944764
+[2023-05-05 17:32:59,927][__main__][INFO] - Iteration 0, epoch 352, train accuracy 0.78, loss 0.2201
+[2023-05-05 17:33:03,025][__main__][INFO] - Test accuracy - 0.7767545310701955
+[2023-05-05 17:33:03,047][__main__][INFO] - Iteration 0, epoch 353, train accuracy 0.79, loss 0.2229
+[2023-05-05 17:33:06,132][__main__][INFO] - Test accuracy - 0.7766390247410816
+[2023-05-05 17:33:06,156][__main__][INFO] - Iteration 0, epoch 354, train accuracy 0.79, loss 0.2111
+[2023-05-05 17:33:09,201][__main__][INFO] - Test accuracy - 0.7768322065592634
+[2023-05-05 17:33:09,221][__main__][INFO] - Iteration 0, epoch 355, train accuracy 0.78, loss 0.2225
+[2023-05-05 17:33:12,282][__main__][INFO] - Test accuracy - 0.7763757911392404
+[2023-05-05 17:33:12,306][__main__][INFO] - Iteration 0, epoch 356, train accuracy 0.78, loss 0.2181
+[2023-05-05 17:33:15,344][__main__][INFO] - Test accuracy - 0.7764761219792864
+[2023-05-05 17:33:15,365][__main__][INFO] - Iteration 0, epoch 357, train accuracy 0.78, loss 0.2190
+[2023-05-05 17:33:18,404][__main__][INFO] - Test accuracy - 0.7769022583429229
+[2023-05-05 17:33:18,429][__main__][INFO] - Iteration 0, epoch 358, train accuracy 0.78, loss 0.2263
+[2023-05-05 17:33:21,499][__main__][INFO] - Test accuracy - 0.7763075373993096
+[2023-05-05 17:33:21,522][__main__][INFO] - Iteration 0, epoch 359, train accuracy 0.78, loss 0.2261
+[2023-05-05 17:33:24,589][__main__][INFO] - Test accuracy - 0.7749495109321057
+[2023-05-05 17:33:24,610][__main__][INFO] - Iteration 0, epoch 360, train accuracy 0.76, loss 0.2389
+[2023-05-05 17:33:27,644][__main__][INFO] - Test accuracy - 0.7763152330264673
+[2023-05-05 17:33:27,666][__main__][INFO] - Iteration 0, epoch 361, train accuracy 0.79, loss 0.2062
+[2023-05-05 17:33:30,685][__main__][INFO] - Test accuracy - 0.7759021864211736
+[2023-05-05 17:33:30,704][__main__][INFO] - Iteration 0, epoch 362, train accuracy 0.80, loss 0.2037
+[2023-05-05 17:33:33,759][__main__][INFO] - Test accuracy - 0.7779515247410816
+[2023-05-05 17:33:33,783][__main__][INFO] - Iteration 0, epoch 363, train accuracy 0.79, loss 0.2153
+[2023-05-05 17:33:36,829][__main__][INFO] - Test accuracy - 0.7775159666283085
+[2023-05-05 17:33:36,854][__main__][INFO] - Iteration 0, epoch 364, train accuracy 0.78, loss 0.2173
+[2023-05-05 17:33:39,913][__main__][INFO] - Test accuracy - 0.7759305955120829
+[2023-05-05 17:33:39,942][__main__][INFO] - Iteration 0, epoch 365, train accuracy 0.76, loss 0.2358
+[2023-05-05 17:33:42,991][__main__][INFO] - Test accuracy - 0.7768890247410817
+[2023-05-05 17:33:43,019][__main__][INFO] - Iteration 0, epoch 366, train accuracy 0.78, loss 0.2161
+[2023-05-05 17:33:46,058][__main__][INFO] - Test accuracy - 0.7770859464902187
+[2023-05-05 17:33:46,083][__main__][INFO] - Iteration 0, epoch 367, train accuracy 0.75, loss 0.2483
+[2023-05-05 17:33:49,113][__main__][INFO] - Test accuracy - 0.7758188291139241
+[2023-05-05 17:33:49,134][__main__][INFO] - Iteration 0, epoch 368, train accuracy 0.75, loss 0.2445
+[2023-05-05 17:33:52,178][__main__][INFO] - Test accuracy - 0.777296245684695
+[2023-05-05 17:33:52,199][__main__][INFO] - Iteration 0, epoch 369, train accuracy 0.79, loss 0.2116
+[2023-05-05 17:33:55,283][__main__][INFO] - Test accuracy - 0.7770764528193326
+[2023-05-05 17:33:55,304][__main__][INFO] - Iteration 0, epoch 370, train accuracy 0.74, loss 0.2575
+[2023-05-05 17:33:58,360][__main__][INFO] - Test accuracy - 0.7771068037974682
+[2023-05-05 17:33:58,381][__main__][INFO] - Iteration 0, epoch 371, train accuracy 0.78, loss 0.2289
+[2023-05-05 17:34:01,443][__main__][INFO] - Test accuracy - 0.7758245109321057
+[2023-05-05 17:34:01,465][__main__][INFO] - Iteration 0, epoch 372, train accuracy 0.78, loss 0.2190
+[2023-05-05 17:34:04,570][__main__][INFO] - Test accuracy - 0.7766332710011506
+[2023-05-05 17:34:04,593][__main__][INFO] - Iteration 0, epoch 373, train accuracy 0.79, loss 0.2094
+[2023-05-05 17:34:07,638][__main__][INFO] - Test accuracy - 0.7778341484464902
+[2023-05-05 17:34:07,658][__main__][INFO] - Iteration 0, epoch 374, train accuracy 0.77, loss 0.2359
+[2023-05-05 17:34:10,688][__main__][INFO] - Test accuracy - 0.7771389528193325
+[2023-05-05 17:34:10,708][__main__][INFO] - Iteration 0, epoch 375, train accuracy 0.76, loss 0.2364
+[2023-05-05 17:34:13,808][__main__][INFO] - Test accuracy - 0.7770385500575375
+[2023-05-05 17:34:13,832][__main__][INFO] - Iteration 0, epoch 376, train accuracy 0.79, loss 0.2148
+[2023-05-05 17:34:16,874][__main__][INFO] - Test accuracy - 0.7767658227848102
+[2023-05-05 17:34:16,902][__main__][INFO] - Iteration 0, epoch 377, train accuracy 0.78, loss 0.2286
+[2023-05-05 17:34:19,937][__main__][INFO] - Test accuracy - 0.7777735184119677
+[2023-05-05 17:34:19,960][__main__][INFO] - Iteration 0, epoch 378, train accuracy 0.78, loss 0.2231
+[2023-05-05 17:34:23,000][__main__][INFO] - Test accuracy - 0.7779421029919447
+[2023-05-05 17:34:23,021][__main__][INFO] - Iteration 0, epoch 379, train accuracy 0.78, loss 0.2159
+[2023-05-05 17:34:26,077][__main__][INFO] - Test accuracy - 0.7778493239355581
+[2023-05-05 17:34:26,105][__main__][INFO] - Iteration 0, epoch 380, train accuracy 0.79, loss 0.2176
+[2023-05-05 17:34:29,160][__main__][INFO] - Test accuracy - 0.7775404919447642
+[2023-05-05 17:34:29,183][__main__][INFO] - Iteration 0, epoch 381, train accuracy 0.78, loss 0.2213
+[2023-05-05 17:34:32,246][__main__][INFO] - Test accuracy - 0.7787924338319908
+[2023-05-05 17:34:32,267][__main__][INFO] - Iteration 0, epoch 382, train accuracy 0.76, loss 0.2430
+[2023-05-05 17:34:35,356][__main__][INFO] - Test accuracy - 0.7748245109321058
+[2023-05-05 17:34:35,379][__main__][INFO] - Iteration 0, epoch 383, train accuracy 0.79, loss 0.2152
+[2023-05-05 17:34:38,417][__main__][INFO] - Test accuracy - 0.7773207710011508
+[2023-05-05 17:34:38,442][__main__][INFO] - Iteration 0, epoch 384, train accuracy 0.79, loss 0.2109
+[2023-05-05 17:34:41,473][__main__][INFO] - Test accuracy - 0.7783019275028767
+[2023-05-05 17:34:41,494][__main__][INFO] - Iteration 0, epoch 385, train accuracy 0.77, loss 0.2329
+[2023-05-05 17:34:44,550][__main__][INFO] - Test accuracy - 0.7787128883774453
+[2023-05-05 17:34:44,576][__main__][INFO] - Iteration 0, epoch 386, train accuracy 0.78, loss 0.2194
+[2023-05-05 17:34:47,608][__main__][INFO] - Test accuracy - 0.776834004602992
+[2023-05-05 17:34:47,628][__main__][INFO] - Iteration 0, epoch 387, train accuracy 0.79, loss 0.2178
+[2023-05-05 17:34:50,674][__main__][INFO] - Test accuracy - 0.778868167433832
+[2023-05-05 17:34:50,696][__main__][INFO] - Iteration 0, epoch 388, train accuracy 0.79, loss 0.2167
+[2023-05-05 17:34:53,749][__main__][INFO] - Test accuracy - 0.7786068037974684
+[2023-05-05 17:34:53,782][__main__][INFO] - Iteration 0, epoch 389, train accuracy 0.76, loss 0.2407
+[2023-05-05 17:34:57,041][__main__][INFO] - Test accuracy - 0.7788340765247409
+[2023-05-05 17:34:57,067][__main__][INFO] - Iteration 0, epoch 390, train accuracy 0.81, loss 0.1949
+[2023-05-05 17:35:00,188][__main__][INFO] - Test accuracy - 0.7783681674338319
+[2023-05-05 17:35:00,216][__main__][INFO] - Iteration 0, epoch 391, train accuracy 0.76, loss 0.2395
+[2023-05-05 17:35:03,295][__main__][INFO] - Test accuracy - 0.778227991944764
+[2023-05-05 17:35:03,324][__main__][INFO] - Iteration 0, epoch 392, train accuracy 0.79, loss 0.2076
+[2023-05-05 17:35:06,413][__main__][INFO] - Test accuracy - 0.7784003164556961
+[2023-05-05 17:35:06,440][__main__][INFO] - Iteration 0, epoch 393, train accuracy 0.79, loss 0.2067
+[2023-05-05 17:35:09,560][__main__][INFO] - Test accuracy - 0.778271576524741
+[2023-05-05 17:35:09,588][__main__][INFO] - Iteration 0, epoch 394, train accuracy 0.77, loss 0.2295
+[2023-05-05 17:35:12,673][__main__][INFO] - Test accuracy - 0.7776010500575374
+[2023-05-05 17:35:12,694][__main__][INFO] - Iteration 0, epoch 395, train accuracy 0.78, loss 0.2225
+[2023-05-05 17:35:15,854][__main__][INFO] - Test accuracy - 0.7789742520138091
+[2023-05-05 17:35:15,877][__main__][INFO] - Iteration 0, epoch 396, train accuracy 0.79, loss 0.2111
+[2023-05-05 17:35:18,947][__main__][INFO] - Test accuracy - 0.778570914844649
+[2023-05-05 17:35:18,974][__main__][INFO] - Iteration 0, epoch 397, train accuracy 0.81, loss 0.1971
+[2023-05-05 17:35:22,052][__main__][INFO] - Test accuracy - 0.7787829401611048
+[2023-05-05 17:35:22,078][__main__][INFO] - Iteration 0, epoch 398, train accuracy 0.79, loss 0.2128
+[2023-05-05 17:35:25,209][__main__][INFO] - Test accuracy - 0.7797488492520138
+[2023-05-05 17:35:25,233][__main__][INFO] - Iteration 0, epoch 399, train accuracy 0.79, loss 0.2087
+[2023-05-05 17:35:28,320][__main__][INFO] - Test accuracy - 0.7783491800920598
+[2023-05-05 17:35:28,348][__main__][INFO] - Iteration 0, epoch 400, train accuracy 0.77, loss 0.2269
+[2023-05-05 17:35:31,477][__main__][INFO] - Test accuracy - 0.7789761219792866
+[2023-05-05 17:35:31,502][__main__][INFO] - Iteration 0, epoch 401, train accuracy 0.80, loss 0.2097
+[2023-05-05 17:35:34,525][__main__][INFO] - Test accuracy - 0.7795840765247412
+[2023-05-05 17:35:34,551][__main__][INFO] - Iteration 0, epoch 402, train accuracy 0.79, loss 0.2193
+[2023-05-05 17:35:37,584][__main__][INFO] - Test accuracy - 0.7777392836593786
+[2023-05-05 17:35:37,607][__main__][INFO] - Iteration 0, epoch 403, train accuracy 0.77, loss 0.2308
+[2023-05-05 17:35:40,624][__main__][INFO] - Test accuracy - 0.7778131472957422
+[2023-05-05 17:35:40,646][__main__][INFO] - Iteration 0, epoch 404, train accuracy 0.79, loss 0.2147
+[2023-05-05 17:35:43,724][__main__][INFO] - Test accuracy - 0.7795158947065594
+[2023-05-05 17:35:43,749][__main__][INFO] - Iteration 0, epoch 405, train accuracy 0.79, loss 0.2074
+[2023-05-05 17:35:46,860][__main__][INFO] - Test accuracy - 0.7783548619102416
+[2023-05-05 17:35:46,889][__main__][INFO] - Iteration 0, epoch 406, train accuracy 0.78, loss 0.2189
+[2023-05-05 17:35:49,921][__main__][INFO] - Test accuracy - 0.7793492520138089
+[2023-05-05 17:35:49,945][__main__][INFO] - Iteration 0, epoch 407, train accuracy 0.78, loss 0.2243
+[2023-05-05 17:35:52,956][__main__][INFO] - Test accuracy - 0.7781427646720368
+[2023-05-05 17:35:52,976][__main__][INFO] - Iteration 0, epoch 408, train accuracy 0.77, loss 0.2279
+[2023-05-05 17:35:56,079][__main__][INFO] - Test accuracy - 0.7762922899884924
+[2023-05-05 17:35:56,100][__main__][INFO] - Iteration 0, epoch 409, train accuracy 0.80, loss 0.2022
+[2023-05-05 17:35:59,135][__main__][INFO] - Test accuracy - 0.7799306674338321
+[2023-05-05 17:35:59,161][__main__][INFO] - Iteration 0, epoch 410, train accuracy 0.79, loss 0.2095
+[2023-05-05 17:36:02,231][__main__][INFO] - Test accuracy - 0.7797128883774452
+[2023-05-05 17:36:02,253][__main__][INFO] - Iteration 0, epoch 411, train accuracy 0.77, loss 0.2302
+[2023-05-05 17:36:05,270][__main__][INFO] - Test accuracy - 0.7800102128883776
+[2023-05-05 17:36:05,293][__main__][INFO] - Iteration 0, epoch 412, train accuracy 0.80, loss 0.2037
+[2023-05-05 17:36:08,324][__main__][INFO] - Test accuracy - 0.778389096662831
+[2023-05-05 17:36:08,345][__main__][INFO] - Iteration 0, epoch 413, train accuracy 0.78, loss 0.2254
+[2023-05-05 17:36:11,404][__main__][INFO] - Test accuracy - 0.7797999856156501
+[2023-05-05 17:36:11,424][__main__][INFO] - Iteration 0, epoch 414, train accuracy 0.75, loss 0.2529
+[2023-05-05 17:36:14,487][__main__][INFO] - Test accuracy - 0.7797829401611047
+[2023-05-05 17:36:14,510][__main__][INFO] - Iteration 0, epoch 415, train accuracy 0.79, loss 0.2106
+[2023-05-05 17:36:17,571][__main__][INFO] - Test accuracy - 0.7778945627157653
+[2023-05-05 17:36:17,592][__main__][INFO] - Iteration 0, epoch 416, train accuracy 0.80, loss 0.2074
+[2023-05-05 17:36:20,645][__main__][INFO] - Test accuracy - 0.7779911536248559
+[2023-05-05 17:36:20,671][__main__][INFO] - Iteration 0, epoch 417, train accuracy 0.78, loss 0.2199
+[2023-05-05 17:36:23,697][__main__][INFO] - Test accuracy - 0.7795121547756042
+[2023-05-05 17:36:23,722][__main__][INFO] - Iteration 0, epoch 418, train accuracy 0.78, loss 0.2186
+[2023-05-05 17:36:26,777][__main__][INFO] - Test accuracy - 0.7787564010356731
+[2023-05-05 17:36:26,803][__main__][INFO] - Iteration 0, epoch 419, train accuracy 0.79, loss 0.2251
+[2023-05-05 17:36:29,845][__main__][INFO] - Test accuracy - 0.7786541283084005
+[2023-05-05 17:36:29,871][__main__][INFO] - Iteration 0, epoch 420, train accuracy 0.78, loss 0.2198
+[2023-05-05 17:36:32,911][__main__][INFO] - Test accuracy - 0.7799174338319907
+[2023-05-05 17:36:32,932][__main__][INFO] - Iteration 0, epoch 421, train accuracy 0.78, loss 0.2245
+[2023-05-05 17:36:36,008][__main__][INFO] - Test accuracy - 0.780464758342923
+[2023-05-05 17:36:36,033][__main__][INFO] - Iteration 0, epoch 422, train accuracy 0.79, loss 0.2131
+[2023-05-05 17:36:39,046][__main__][INFO] - Test accuracy - 0.7793189010356731
+[2023-05-05 17:36:39,068][__main__][INFO] - Iteration 0, epoch 423, train accuracy 0.80, loss 0.2047
+[2023-05-05 17:36:42,125][__main__][INFO] - Test accuracy - 0.7806806674338319
+[2023-05-05 17:36:42,149][__main__][INFO] - Iteration 0, epoch 424, train accuracy 0.80, loss 0.1953
+[2023-05-05 17:36:45,191][__main__][INFO] - Test accuracy - 0.7789021864211737
+[2023-05-05 17:36:45,214][__main__][INFO] - Iteration 0, epoch 425, train accuracy 0.77, loss 0.2249
+[2023-05-05 17:36:48,277][__main__][INFO] - Test accuracy - 0.7782752445339471
+[2023-05-05 17:36:48,301][__main__][INFO] - Iteration 0, epoch 426, train accuracy 0.78, loss 0.2210
+[2023-05-05 17:36:51,327][__main__][INFO] - Test accuracy - 0.7795253164556961
+[2023-05-05 17:36:51,349][__main__][INFO] - Iteration 0, epoch 427, train accuracy 0.76, loss 0.2470
+[2023-05-05 17:36:54,400][__main__][INFO] - Test accuracy - 0.7797677646720369
+[2023-05-05 17:36:54,421][__main__][INFO] - Iteration 0, epoch 428, train accuracy 0.76, loss 0.2393
+[2023-05-05 17:36:57,560][__main__][INFO] - Test accuracy - 0.7792980437284235
+[2023-05-05 17:36:57,588][__main__][INFO] - Iteration 0, epoch 429, train accuracy 0.80, loss 0.2054
+[2023-05-05 17:37:00,700][__main__][INFO] - Test accuracy - 0.7811806674338321
+[2023-05-05 17:37:00,721][__main__][INFO] - Iteration 0, epoch 430, train accuracy 0.76, loss 0.2437
+[2023-05-05 17:37:03,900][__main__][INFO] - Test accuracy - 0.7800897583429228
+[2023-05-05 17:37:03,925][__main__][INFO] - Iteration 0, epoch 431, train accuracy 0.79, loss 0.2106
+[2023-05-05 17:37:07,358][__main__][INFO] - Test accuracy - 0.780930667433832
+[2023-05-05 17:37:07,388][__main__][INFO] - Iteration 0, epoch 432, train accuracy 0.77, loss 0.2264
+[2023-05-05 17:37:10,430][__main__][INFO] - Test accuracy - 0.7773983745684695
+[2023-05-05 17:37:10,454][__main__][INFO] - Iteration 0, epoch 433, train accuracy 0.78, loss 0.2214
+[2023-05-05 17:37:13,638][__main__][INFO] - Test accuracy - 0.7795555955120829
+[2023-05-05 17:37:13,659][__main__][INFO] - Iteration 0, epoch 434, train accuracy 0.77, loss 0.2317
+[2023-05-05 17:37:16,746][__main__][INFO] - Test accuracy - 0.7800726409666283
+[2023-05-05 17:37:16,770][__main__][INFO] - Iteration 0, epoch 435, train accuracy 0.81, loss 0.1981
+[2023-05-05 17:37:19,854][__main__][INFO] - Test accuracy - 0.7811920310701956
+[2023-05-05 17:37:19,878][__main__][INFO] - Iteration 0, epoch 436, train accuracy 0.80, loss 0.2055
+[2023-05-05 17:37:22,913][__main__][INFO] - Test accuracy - 0.7797771864211737
+[2023-05-05 17:37:22,939][__main__][INFO] - Iteration 0, epoch 437, train accuracy 0.78, loss 0.2193
+[2023-05-05 17:37:26,037][__main__][INFO] - Test accuracy - 0.7810386219792865
+[2023-05-05 17:37:26,058][__main__][INFO] - Iteration 0, epoch 438, train accuracy 0.79, loss 0.2135
+[2023-05-05 17:37:29,180][__main__][INFO] - Test accuracy - 0.7803586737629459
+[2023-05-05 17:37:29,207][__main__][INFO] - Iteration 0, epoch 439, train accuracy 0.82, loss 0.1914
+[2023-05-05 17:37:32,391][__main__][INFO] - Test accuracy - 0.7814647583429228
+[2023-05-05 17:37:32,415][__main__][INFO] - Iteration 0, epoch 440, train accuracy 0.79, loss 0.2120
+[2023-05-05 17:37:35,423][__main__][INFO] - Test accuracy - 0.780824582853855
+[2023-05-05 17:37:35,450][__main__][INFO] - Iteration 0, epoch 441, train accuracy 0.80, loss 0.1996
+[2023-05-05 17:37:38,507][__main__][INFO] - Test accuracy - 0.7816977128883774
+[2023-05-05 17:37:38,533][__main__][INFO] - Iteration 0, epoch 442, train accuracy 0.79, loss 0.2111
+[2023-05-05 17:37:41,560][__main__][INFO] - Test accuracy - 0.7811181674338318
+[2023-05-05 17:37:41,584][__main__][INFO] - Iteration 0, epoch 443, train accuracy 0.80, loss 0.1976
+[2023-05-05 17:37:44,646][__main__][INFO] - Test accuracy - 0.7806219073647871
+[2023-05-05 17:37:44,666][__main__][INFO] - Iteration 0, epoch 444, train accuracy 0.79, loss 0.2119
+[2023-05-05 17:37:48,089][__main__][INFO] - Test accuracy - 0.7818624856156501
+[2023-05-05 17:37:48,116][__main__][INFO] - Iteration 0, epoch 445, train accuracy 0.78, loss 0.2215
+[2023-05-05 17:37:51,258][__main__][INFO] - Test accuracy - 0.7822999856156501
+[2023-05-05 17:37:51,282][__main__][INFO] - Iteration 0, epoch 446, train accuracy 0.81, loss 0.1948
+[2023-05-05 17:37:54,424][__main__][INFO] - Test accuracy - 0.7822886219792866
+[2023-05-05 17:37:54,447][__main__][INFO] - Iteration 0, epoch 447, train accuracy 0.78, loss 0.2260
+[2023-05-05 17:37:57,662][__main__][INFO] - Test accuracy - 0.781396576524741
+[2023-05-05 17:37:57,683][__main__][INFO] - Iteration 0, epoch 448, train accuracy 0.79, loss 0.2093
+[2023-05-05 17:38:00,686][__main__][INFO] - Test accuracy - 0.781805667433832
+[2023-05-05 17:38:00,710][__main__][INFO] - Iteration 0, epoch 449, train accuracy 0.81, loss 0.1909
+[2023-05-05 17:38:03,740][__main__][INFO] - Test accuracy - 0.7804760500575373
+[2023-05-05 17:38:03,771][__main__][INFO] - Iteration 0, epoch 450, train accuracy 0.78, loss 0.2224
+[2023-05-05 17:38:06,821][__main__][INFO] - Test accuracy - 0.7813548619102416
+[2023-05-05 17:38:06,842][__main__][INFO] - Iteration 0, epoch 451, train accuracy 0.80, loss 0.2021
+[2023-05-05 17:38:09,900][__main__][INFO] - Test accuracy - 0.780256329113924
+[2023-05-05 17:38:09,927][__main__][INFO] - Iteration 0, epoch 452, train accuracy 0.80, loss 0.2092
+[2023-05-05 17:38:12,961][__main__][INFO] - Test accuracy - 0.7818889528193325
+[2023-05-05 17:38:12,988][__main__][INFO] - Iteration 0, epoch 453, train accuracy 0.80, loss 0.1998
+[2023-05-05 17:38:16,367][__main__][INFO] - Test accuracy - 0.7820916283084004
+[2023-05-05 17:38:16,395][__main__][INFO] - Iteration 0, epoch 454, train accuracy 0.77, loss 0.2266
+[2023-05-05 17:38:19,770][__main__][INFO] - Test accuracy - 0.7804722382048331
+[2023-05-05 17:38:19,801][__main__][INFO] - Iteration 0, epoch 455, train accuracy 0.77, loss 0.2318
+[2023-05-05 17:38:23,141][__main__][INFO] - Test accuracy - 0.7826977128883773
+[2023-05-05 17:38:23,163][__main__][INFO] - Iteration 0, epoch 456, train accuracy 0.78, loss 0.2239
+[2023-05-05 17:38:26,501][__main__][INFO] - Test accuracy - 0.7820328682393555
+[2023-05-05 17:38:26,524][__main__][INFO] - Iteration 0, epoch 457, train accuracy 0.78, loss 0.2219
+[2023-05-05 17:38:29,884][__main__][INFO] - Test accuracy - 0.7829249856156502
+[2023-05-05 17:38:29,911][__main__][INFO] - Iteration 0, epoch 458, train accuracy 0.78, loss 0.2215
+[2023-05-05 17:38:33,321][__main__][INFO] - Test accuracy - 0.7825480437284235
+[2023-05-05 17:38:33,344][__main__][INFO] - Iteration 0, epoch 459, train accuracy 0.81, loss 0.1995
+[2023-05-05 17:38:36,736][__main__][INFO] - Test accuracy - 0.782405998273878
+[2023-05-05 17:38:36,763][__main__][INFO] - Iteration 0, epoch 460, train accuracy 0.79, loss 0.2177
+[2023-05-05 17:38:39,856][__main__][INFO] - Test accuracy - 0.7839704401611047
+[2023-05-05 17:38:39,876][__main__][INFO] - Iteration 0, epoch 461, train accuracy 0.78, loss 0.2256
+[2023-05-05 17:38:43,004][__main__][INFO] - Test accuracy - 0.7819513808975835
+[2023-05-05 17:38:43,029][__main__][INFO] - Iteration 0, epoch 462, train accuracy 0.81, loss 0.1966
+[2023-05-05 17:38:46,254][__main__][INFO] - Test accuracy - 0.7837658947065592
+[2023-05-05 17:38:46,282][__main__][INFO] - Iteration 0, epoch 463, train accuracy 0.77, loss 0.2366
+[2023-05-05 17:38:49,507][__main__][INFO] - Test accuracy - 0.7832052646720368
+[2023-05-05 17:38:49,530][__main__][INFO] - Iteration 0, epoch 464, train accuracy 0.77, loss 0.2357
+[2023-05-05 17:38:52,820][__main__][INFO] - Test accuracy - 0.7836219073647871
+[2023-05-05 17:38:52,848][__main__][INFO] - Iteration 0, epoch 465, train accuracy 0.80, loss 0.2075
+[2023-05-05 17:38:56,099][__main__][INFO] - Test accuracy - 0.7839533947065592
+[2023-05-05 17:38:56,124][__main__][INFO] - Iteration 0, epoch 466, train accuracy 0.79, loss 0.2120
+[2023-05-05 17:38:59,276][__main__][INFO] - Test accuracy - 0.7825915563866512
+[2023-05-05 17:38:59,298][__main__][INFO] - Iteration 0, epoch 467, train accuracy 0.78, loss 0.2281
+[2023-05-05 17:39:02,567][__main__][INFO] - Test accuracy - 0.7844571346375143
+[2023-05-05 17:39:02,588][__main__][INFO] - Iteration 0, epoch 468, train accuracy 0.77, loss 0.2308
+[2023-05-05 17:39:05,831][__main__][INFO] - Test accuracy - 0.7845934982738779
+[2023-05-05 17:39:05,855][__main__][INFO] - Iteration 0, epoch 469, train accuracy 0.77, loss 0.2319
+[2023-05-05 17:39:09,069][__main__][INFO] - Test accuracy - 0.7848511219792865
+[2023-05-05 17:39:09,106][__main__][INFO] - Iteration 0, epoch 470, train accuracy 0.78, loss 0.2233
+[2023-05-05 17:39:12,329][__main__][INFO] - Test accuracy - 0.785180667433832
+[2023-05-05 17:39:12,354][__main__][INFO] - Iteration 0, epoch 471, train accuracy 0.78, loss 0.2242
+[2023-05-05 17:39:15,616][__main__][INFO] - Test accuracy - 0.784680667433832
+[2023-05-05 17:39:15,643][__main__][INFO] - Iteration 0, epoch 472, train accuracy 0.78, loss 0.2168
+[2023-05-05 17:39:18,899][__main__][INFO] - Test accuracy - 0.7847488492520138
+[2023-05-05 17:39:18,926][__main__][INFO] - Iteration 0, epoch 473, train accuracy 0.79, loss 0.2088
+[2023-05-05 17:39:22,147][__main__][INFO] - Test accuracy - 0.7851238492520138
+[2023-05-05 17:39:22,173][__main__][INFO] - Iteration 0, epoch 474, train accuracy 0.78, loss 0.2221
+[2023-05-05 17:39:25,423][__main__][INFO] - Test accuracy - 0.7841029200230151
+[2023-05-05 17:39:25,449][__main__][INFO] - Iteration 0, epoch 475, train accuracy 0.79, loss 0.2041
+[2023-05-05 17:39:28,651][__main__][INFO] - Test accuracy - 0.7851522583429229
+[2023-05-05 17:39:28,671][__main__][INFO] - Iteration 0, epoch 476, train accuracy 0.79, loss 0.2117
+[2023-05-05 17:39:31,926][__main__][INFO] - Test accuracy - 0.7851180955120828
+[2023-05-05 17:39:31,948][__main__][INFO] - Iteration 0, epoch 477, train accuracy 0.79, loss 0.2077
+[2023-05-05 17:39:35,207][__main__][INFO] - Test accuracy - 0.7828680235903338
+[2023-05-05 17:39:35,229][__main__][INFO] - Iteration 0, epoch 478, train accuracy 0.77, loss 0.2325
+[2023-05-05 17:39:38,468][__main__][INFO] - Test accuracy - 0.7854817318757192
+[2023-05-05 17:39:38,498][__main__][INFO] - Iteration 0, epoch 479, train accuracy 0.77, loss 0.2353
+[2023-05-05 17:39:41,761][__main__][INFO] - Test accuracy - 0.7845252445339471
+[2023-05-05 17:39:41,794][__main__][INFO] - Iteration 0, epoch 480, train accuracy 0.79, loss 0.2143
+[2023-05-05 17:39:45,020][__main__][INFO] - Test accuracy - 0.7858075373993095
+[2023-05-05 17:39:45,042][__main__][INFO] - Iteration 0, epoch 481, train accuracy 0.77, loss 0.2257
+[2023-05-05 17:39:48,279][__main__][INFO] - Test accuracy - 0.7848169591484466
+[2023-05-05 17:39:48,301][__main__][INFO] - Iteration 0, epoch 482, train accuracy 0.78, loss 0.2242
+[2023-05-05 17:39:51,540][__main__][INFO] - Test accuracy - 0.7855973820483313
+[2023-05-05 17:39:51,563][__main__][INFO] - Iteration 0, epoch 483, train accuracy 0.80, loss 0.2067
+[2023-05-05 17:39:54,822][__main__][INFO] - Test accuracy - 0.7860689010356733
+[2023-05-05 17:39:54,844][__main__][INFO] - Iteration 0, epoch 484, train accuracy 0.79, loss 0.2102
+[2023-05-05 17:39:58,125][__main__][INFO] - Test accuracy - 0.7852034666283084
+[2023-05-05 17:39:58,146][__main__][INFO] - Iteration 0, epoch 485, train accuracy 0.77, loss 0.2321
+[2023-05-05 17:40:01,348][__main__][INFO] - Test accuracy - 0.7860064010356731
+[2023-05-05 17:40:01,376][__main__][INFO] - Iteration 0, epoch 486, train accuracy 0.79, loss 0.2163
+[2023-05-05 17:40:04,585][__main__][INFO] - Test accuracy - 0.7862677646720367
+[2023-05-05 17:40:04,614][__main__][INFO] - Iteration 0, epoch 487, train accuracy 0.81, loss 0.1962
+[2023-05-05 17:40:07,858][__main__][INFO] - Test accuracy - 0.7855330120828538
+[2023-05-05 17:40:07,882][__main__][INFO] - Iteration 0, epoch 488, train accuracy 0.79, loss 0.2169
+[2023-05-05 17:40:11,108][__main__][INFO] - Test accuracy - 0.7861616800920598
+[2023-05-05 17:40:11,136][__main__][INFO] - Iteration 0, epoch 489, train accuracy 0.78, loss 0.2191
+[2023-05-05 17:40:14,337][__main__][INFO] - Test accuracy - 0.7867184982738781
+[2023-05-05 17:40:14,362][__main__][INFO] - Iteration 0, epoch 490, train accuracy 0.80, loss 0.2072
+[2023-05-05 17:40:17,646][__main__][INFO] - Test accuracy - 0.7865916283084005
+[2023-05-05 17:40:17,674][__main__][INFO] - Iteration 0, epoch 491, train accuracy 0.80, loss 0.2029
+[2023-05-05 17:40:20,912][__main__][INFO] - Test accuracy - 0.7863548619102416
+[2023-05-05 17:40:20,943][__main__][INFO] - Iteration 0, epoch 492, train accuracy 0.78, loss 0.2218
+[2023-05-05 17:40:24,130][__main__][INFO] - Test accuracy - 0.787218498273878
+[2023-05-05 17:40:24,151][__main__][INFO] - Iteration 0, epoch 493, train accuracy 0.77, loss 0.2338
+[2023-05-05 17:40:27,380][__main__][INFO] - Test accuracy - 0.7872203682393555
+[2023-05-05 17:40:27,405][__main__][INFO] - Iteration 0, epoch 494, train accuracy 0.80, loss 0.2088
+[2023-05-05 17:40:30,654][__main__][INFO] - Test accuracy - 0.7854948935558113
+[2023-05-05 17:40:30,678][__main__][INFO] - Iteration 0, epoch 495, train accuracy 0.80, loss 0.2053
+[2023-05-05 17:40:33,960][__main__][INFO] - Test accuracy - 0.7871938291139241
+[2023-05-05 17:40:33,988][__main__][INFO] - Iteration 0, epoch 496, train accuracy 0.78, loss 0.2207
+[2023-05-05 17:40:37,477][__main__][INFO] - Test accuracy - 0.7866485184119676
+[2023-05-05 17:40:37,510][__main__][INFO] - Iteration 0, epoch 497, train accuracy 0.79, loss 0.2144
+[2023-05-05 17:40:40,887][__main__][INFO] - Test accuracy - 0.7860630753739932
+[2023-05-05 17:40:40,918][__main__][INFO] - Iteration 0, epoch 498, train accuracy 0.78, loss 0.2208
+[2023-05-05 17:40:44,326][__main__][INFO] - Test accuracy - 0.7866293872266975
+[2023-05-05 17:40:44,351][__main__][INFO] - Iteration 0, epoch 499, train accuracy 0.79, loss 0.2070
+[2023-05-05 17:40:48,173][__main__][INFO] - Test accuracy - 0.7876805955120829
+[2023-05-05 17:40:48,177][__main__][INFO] - Total time 1571.2149 seconds

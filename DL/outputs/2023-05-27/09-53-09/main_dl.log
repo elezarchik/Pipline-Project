@@ -1,0 +1,13 @@
+[2023-05-27 09:53:16,319][__main__][INFO] - Net(
+  (fc1): Linear(in_features=3754, out_features=136, bias=True)
+  (fc2): Linear(in_features=136, out_features=136, bias=True)
+  (fc3): Linear(in_features=136, out_features=136, bias=True)
+  (fc4): Linear(in_features=136, out_features=136, bias=True)
+  (fc5): Linear(in_features=136, out_features=136, bias=True)
+  (fc6): Linear(in_features=136, out_features=136, bias=True)
+  (fc7): Linear(in_features=136, out_features=136, bias=True)
+  (fc8): Linear(in_features=136, out_features=1, bias=True)
+  (dropout): Dropout(p=0.01, inplace=False)
+  (batchnorm): BatchNorm1d(136, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (act1): ReLU()
+)

@@ -1,0 +1,8 @@
+[2023-05-10 14:25:07,174][__main__][INFO] - Net(
+  (fc1): Linear(in_features=17, out_features=102, bias=True)
+  (fc2): LSTM(102, 102)
+  (fc3): Linear(in_features=102, out_features=68, bias=True)
+  (fc4): Linear(in_features=68, out_features=68, bias=True)
+  (fc5): Linear(in_features=68, out_features=1, bias=True)
+  (act1): ReLU()
+)

@@ -1,0 +1,4 @@
+[2023-05-10 15:10:25,104][__main__][INFO] - Net(
+  (fc1): Linear(in_features=17, out_features=34, bias=True)
+  (fc2): Linear(in_features=34, out_features=1, bias=True)
+)

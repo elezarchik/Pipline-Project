@@ -1,0 +1,6 @@
+[2023-05-10 17:26:36,918][__main__][INFO] - Net(
+  (fc1): Linear(in_features=1, out_features=17, bias=True)
+  (fc2): Linear(in_features=17, out_features=17, bias=True)
+  (fc3): Linear(in_features=17, out_features=1, bias=True)
+  (act1): ReLU()
+)
