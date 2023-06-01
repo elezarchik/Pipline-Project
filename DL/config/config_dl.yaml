@@ -1,0 +1,10 @@
+#config.yaml
+model: LSTM
+params:
+ model: LSTM
+ batch_size: 10000
+ lr: 0.0005
+ wd: 1e-4
+ epoch: 500
+ err: BCE
+ dropout: 0.025
