@@ -1,0 +1,63 @@
+#config.yaml
+model: LogicticRegression
+params:
+ model: LogicticRegression
+ max_iter: 1000
+ penalty: 'l2'
+ tol: 1e-10
+
+#model: Dtree
+#params:
+# model: Dtree
+# min_depth: 300
+# max_depth: 600
+# depth_step: 50
+# min_min_samples_split: 20
+# max_min_samples_split: 100
+# split_step: 10
+# min_min_samples_leaf: 100
+# max_min_samples_leaf: 6000
+# leaf_step: 1000
+
+#model: KNN
+#params:
+# model: KNN
+# min_n_neighbors: 2
+# max_n_neighbors: 10
+# leaf_size_min: 25
+# leaf_size_max: 40
+# leaf_size_step: 5
+
+#model: SVM
+#params:
+# model: SVM
+# C_min: 1
+# C_max: 3
+# degree_min: 3
+# degree_max: 5
+
+#model: RF
+#params:
+# model: RF
+# max_depth_min: 5
+# max_depth_max: 50
+# max_depth_step: 10
+# min_min_samples_split: 20
+# max_min_samples_split: 100
+# split_step: 10
+# min_min_samples_leaf: 100
+# max_min_samples_leaf: 6000
+# leaf_step: 1000
+
+#model: GBC
+#params:
+# model: GBC
+# min_samples_split: 100
+# max_samples_split: 500
+# step_samples_split: 500
+# min_samples_leaf: 100
+# max_samples_leaf: 500
+# step_samples_leaf: 500
+# min_depth: 10
+# max_depth: 20
+# step_depth: 20
